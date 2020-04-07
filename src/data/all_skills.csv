@@ -1,0 +1,1275 @@
+,name,type,description,prerequesite,skill_tree_id
+0,Mad Spinner,Active,Spins your body and your axe., Base,1
+1,Mad Spinner II,Active,Gradually increases speed of your spin.,Mad Spinner,1
+2,Heaven and Earth,Active,"Follows up a Quick Attack with a jumping slice that knocks the enemy into the air, thn slams them back down to earth. (High Stance Only)
+Command: Triangle at end of combo",Base,1
+3,Could Crush,Active,"Follows up a Quick Attack with an upward slice. If the attack reduces an enemy's Ki to zero, it will lift them and hurl them back. (Low Stance Only)
+Command: Triangle button at end of combo",Base,1
+4,Rumbling Earth,Active,"Swings axe overhead then slams it to earth, creating a shockwave that damages the area.
+Command: Hold triangle button",Mad Spinner,1
+5,Roar,Active,"A frontal charge in full guard. (Mid Stance Only)
+Command: Hold X while guarding.",Base,1
+6,Rumbling Earth II,Active,Allows you to accumulate more power thing Rumbling Earth.,"Rumbling Earth
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+7,The Adamantine,Active,"Increases your defense by sacrificing movement speed. Can only be used when your sword is sheathed
+Command: Hold R1 + Circle button.","Roar
+
+",1
+8,Kintaro Kata I,Passive,Axe damage increased 2% against yokai.,"Roar
+Heaven and Earth",1
+9,Kintaro Kata II,Passive,Axe damage increased 1% against yokai.,"Kintaro Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+10,Kintaro Kata III,Passive,Axe damage increased 1% against yokai.,"Kintaro Kata II
+Cleared Mission ""???""",1
+11,Battle Focus,Active,Increases Ki used when dodging in exchange for decreasing Ki used when attacking. Can only be used when your sword is sheathed.,The Adamantine,1
+12,Rage,Active,"Increases your attack strength, but also the amount of Ki used when attacking. Can only be used when your sword is sheathed. ",The Adamantine,1
+13,Spirit Wind,Active,Swings your weapon down upon the enemy while deflecting their attack (Mid Stance Only),Roar,1
+14,Earth Carver,Active,"Scrapes the ground as you swing your weapon up, sending debris flying. (Low Stance Only)
+Command: Hold triangle button",Could Crush,1
+15,Lumber Chop,Active,"Focuses your strength before unleashing a powerful blow. (High Stance Only)
+Command: Triangle button at end of combo",Heaven and Earth,1
+16,Tri-Spark,Active,Attacks three times in a row. (Mid Stance Only),Spirit Wind,1
+17,Stone Mallet,Active,Rams into the enemy and sends them flying. (Mid Stance Only),Spirit Wind,1
+18,Bear's Bane,Active,"Slams the axe deep into the earth before pulling it out and creating a shockwave that damages nearby enemies.
+Command: L1 + Triangle button (triangle while guarding)","Mad Spinner II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+19,Relentless I,Passive,Maximum Ki increases by +30 when you have Axe equipped as your main weapon.,"Could Crush
+Mad Spinner",1
+20,Relentless II,Passive,Maximum Ki increases by +20 when you have Axe equipped as your main weapon.,"Relentless I
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+
+ ",1
+21,Relentless III,Passive,Maximum Ki increases by +10 when you have Axe equipped as your main weapon.,"Relentless II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+22,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 15% when you have Axe equipped as your main weapon.",Roar,1
+23,Indomitable Spirit II,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 10% when you have Axe equipped as your main weapon.",Indomitable Spirit I,1
+24,Indomitable Spirit III,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 5% when you have Axe equipped as your main weapon.","Indomitable Spirit III
+Cleared Mission ""???""",1
+25,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you have Axe equipped as your main weapon.",Heaven and Earth,1
+26,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you have Axe equipped as your main weapon.","Cornered Tiger I
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+Lumber Chop",1
+27,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 5% when you have Axe equipped as your main weapon.","Cornered Tiger II
+Cleared Mission ""???""",1
+28,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when, you have Axe equipped as your main wearen.",Heaven and Earth,1
+29,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when you have Axe equipped as your main weapon","Cornered Boar I
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+Lumber Chop
+
+ ",1
+30,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have Axe equipped as your main weapon.","Cornered Boar II
+Cleared Mission ""???""",1
+31,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have a Axe equipped as your main weapon.",Earth Carver,1
+32,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have a Axe equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+33,Full Moon Kata III,Passive,"While in full health, your melee damage increases by 1% when you have a Axe equipped as your main weapon.","Full Moon Kata II
+Cleared Mission ""???""",1
+34,Passage to the Afterlife I,Passive ,Increases grapple damage by 4% when you base a Axe equipped as your main weapon.,"Heaven and Earth
+Mad Spinner",1
+35,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a Axe equipped as your main weapon.,"Passage to the Afterlife I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+36,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have a Axe equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ""???""",1
+37,Southpaw,Active,"Follow up a Quick Attack by using the side of your axe to land a heavy blow on the enemy.
+(Mid/tow Stance Orly)
+Command: Triangle butto at end of combo","Could Crush
+Roar",1
+38,Titanic Strength,Active,Launches the enemy up before slamming them back down.,Mad Spinner,1
+39,Shadow Strike I, Passive,Damage dealt to enemies from behind increases by 3% when you have a Axe equipped as your main weapon.,Could Crush,1
+40,Shadow Strike II, Passive,Damage dealt to enemies from behind increases by 2% when you have a Axe equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",1
+41,Shadow Strike III, Passive,Damage dealt to enemies from behind increases by 1% when you have a Axe equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""???""",1
+0,Sign of the Cross,Active,"Quick-draw attack. Can only be used when your sword is sheathed.
+Command: Hold R1 + Circle button.",Base,2
+1,Sign of the Cross II,Active,Greatly reduces time needed to gather energy for a Sign of the Cross attack.,Sign of the Cross,2
+2,Windstorm,Active,A spinning attack that slices all around you (High Stance Only),Base,2
+3,Windstorm II,Active,Increases the strength of the wind generated by Windstorm. (High Stance Only),Windstorm,2
+4,Demon Thrust,Active,"A combination move incorporating defense and attack. Thrusts a sword while simultaneously guarding. (Mid Stance Only).
+Command: L1 + Square button (Square While Guarding)",Base,2
+5,Mind's Eye,Active,"You now clearly see, and evade. all incoming attacks during the recovery period followin a dodge. (Low Stance Only)",Base,2
+6,Mind's Eye II,Active,"When Mind's Eye is successful, increases attack power. (low Stance Only)",Mind's Eye,2
+7,God of Wind,Active,"Follows up a Quick Attack with a roundhouse kick. (Mid/Low Stance Only)
+Command: Triangle at end of combo. ","Mind's Eye
+Demon Thrust",2
+8,God of Wind II,Active,Allows you to follow-up God of Wind with a quick slash attack by pressing Triangle button again. (Mid/low Stance Only),God of Wind,2
+9,God of Wind III,Active,"Correctly timing an additional press of Triangle button after God of Wind, slows you to perform a quick double slash attack. 
+(Mid/low Stance Only)","God of Wind II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+10,Random Slice,Active,Rushes forward while swinging two swords. (Mid Stance Only),Demon Thrust,2
+11,Water Sword,Active,"Slices an enemy multiple times. (Hold down the button to alter the attack.) (High Stance Only).
+Command: L1 + Triangle (Triangle While Guarding)",Windstorm,2
+12,Water Sword II,Active,Increases the slicing speed of the Water Sword technique. (High Stance Only),"Water Sword
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+13,Cherry Blossom,Active,"Follows up a Quick Attack with a jumping slice. (High Stance Only).
+Command: Triangle at end of combo",Windstorm,2
+14,Heavenly Flow,Active,"Parries an enemy's attack, countering with a stabbing blow. (Mid Stance Only)
+Command: L1 +Triangle Button (Triangle While guarding)",Relentless I,2
+15,Earthly Flow,Active,"Parries an enemy's attack. countering with a cutting strike. (Mid Stance Only).
+Command: L1 + Square (Square While guarding)",Heavenly Flow,2
+16,The Shrike,Active,"Parries the enemy, stopping the enemy in their tracks, then folows !trough with two attacks. (Mid Stance Oily)","Heavenly Flow
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+17,Moon Shadow,Active,"Maneuvers behind an enemy after they deflect your attack, then slashes them with an extra. (Mid/low Stance Only).
+Command: Press triangle button when an attack is deflected","God of Wind
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+18,Raijin,Active,"moves quickly to the side while slashing. Can be charged to increase the number of strikes.
+Command: Hold Triangle.","Sign of the Cross
+Cleared Mission ""???""",2
+19,Mortal Flow,Active,"Rushes forward and performs a hard thrust, following up with a strong slash if the thrust hits.
+Command: L1 + Triangle button (triangle while guarding)",Mind's Eye,2
+20,Mortal Flow II,Active,"Adds a gust of wind to the follow-up slash of Mortal Flow, increasing its strength.","Mortal Flow
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+21,Relentless I,Passive,Maximum Ki increases by +30 when you have Dual Swords equipped as your main weapon.,Sign of the Cross II,2
+22,Relentless II,Passive,Maximum Ki increases by +20 when you have Dual Swords equipped as your main weapon.,"Relentless I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+23,Relentless III,Passive,Maximum Ki increases by +10 when you have Dual Swords equipped as your main weapon.,"Relentless II
+Cleared Mission ""???""",2
+24,Defense Arts I,Passive,Increases Ki recover speed while guarding by 30% when you have a dual swords equipped as your main weapon.,Demon Thrust,2
+25,Defense Arts II,Passive,Increases Ki recover speed while guarding by 20% when you have a dual swords equipped as your main weapon.,"Defense Arts I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+26,Defense Arts III,Passive,Increases Ki recover speed while guarding by 10% when you have a dual swords equipped as your main weapon.,"Defense Arts II
+Cleared Mission ""???""",2
+27,Tachi Arts I,Passive,Increases melee damage against enemies with full health by 5% when you have a dual swords equipped as you main weapon.,Sign of the Cross,2
+28,Tachi Arts II,Passive,Increases melee damage against enemies with full health by 4% when you have a dual swords equipped as you main weapon.,"Tachi Arts I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+29,Tachi Arts III,Passive,Increases melee damage against enemies with full health by 3% when you have a dual swords equipped as you main weapon.,"Tachi Arts II
+Cleared Mission ""???""",2
+30,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have a Dual Swords equipped as your main weapon.","Sign of the Cross
+Mind's Eye",2
+31,Full Moon Kata II, Passive,"While in full health, your melee damage increases by 2% when you have a Dual Swords equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+32,Full Moon Kata III, Passive,"While in full health, your melee damage increases by 1% when you have a Dual Swords equipped as your main weapon.","Full Moon Kata II
+Cleared Mission ""???""",2
+33,Shadow Strike I, Passive,Damage dealt to enemies from behind increases by 3% when you have a Dual Swords equipped as your main weapon.,Mind's Eye II,2
+34,Shadow Strike II, Passive,Damage dealt to enemies from behind increases by 2% when you have a Dual Swords equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+35,Shadow Strike III, Passive,Damage dealt to enemies from behind increases by 1% when you have a Dual Swords equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""???""",2
+36,Armor Piercer I, Passive,Increases Final Blow damage by 4% when you have a Dual Swords equipped as your main weapon,Windstorm II,2
+37,Armor Piercer II, Passive,Increases Final Blow damage by 3% when you have a Dual Swords equipped as your main weapon.,"Armor Piercer I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+38,Armor Piercer III, Passive,Increases Final Blow damage by 2% when you have a Dual Swords equipped as your main weapon.,"Armor Piercer II
+Cleared Mission ""???""",2
+39,Passage to the Afterlife I, Passive,Increases grapple damage by 4% when you base a Dual Swords equipped as your main weapon.,"Demon Thrust
+Windstorm",2
+40,Passage to the Afterlife II, Passive,Increases grapple damage by 3% when you have a Dual Swords equipped as your main weapon.,"Passage to the Afterlife I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+41,Passage to the Afterlife III, Passive,Increases grapple damage by 2% when you have a Dual Swords equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ""???""",2
+42,Piercing Wheel,Active,"Repel Incoming attack as you stab your enemies over your shouder. (Mid Stance Only).
+Command: L1 + Square Button (Square While Guarding)","Random Slice
+Cleared Mission ""The Sun Sets On Mount Tenno"".",2
+43,Dual Dragon,Active,"Slash at enemy before lauching yourself into the air to bring down a mighty blow on your opponent.
+(Low Stance Only).
+Command: Triangle button at end of combo.",Mind's Eye,2
+0,Dual Hurl,Active,"Perform a charged throw with your hatchet. If you charge it to the maximum, you will throw both of your hatchets at the same time. (Mid stance only).
+Command: Hold Triangle",Base,3
+1,Mountain Climber II,Active,Press Square button after using Mountain Climber to strike downwards at your enemy as you land. (Low Stance Only).,"Mountain Climber
+
+Cleared Mission ""
+
+The Sun Sets On Mount Tenno"".",3
+2,Mountain Climber,Active,"Leaps over an enemy to get behin them. (Low Stance Only).
+Command: L3 UP + X button at end of combo.","Chain Hurl II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+3,Advancing Storm,Active,"Run forward, launching into a somersault and flinging, your hatches at the enemy.
+Command: Hold Square while running",Boulder Breaker,3
+4,Tile Shaker,Active,"Parries an enemy attack, neutralizing it. (Mid Stance Only).",Death from Above,3
+5,Biting Hail,Active,"Evade an attack while flinging your hatches at you foe. (Low Stance Only).
+Command: Triangle button while dodging.",Eagle's Shadow,3
+6,Dual Hurl: Light,Active,"Decrease the charge time when performing Dual Hurl. (Mid stance only).
+Command: Hold triangle button.",Dual Hurl,3
+7,Dual Hurl: Shadow,Active,"Increases the distance of the throw when you charge your attack further. (Mid stance Only).
+Command: Hold triangle button.",Dual Hurl,3
+8,Relentless I,Passive,Maximun Ki increasses by +30 when you have hatchets equipped as your main weapon.,Dual Hurl: Shadow,3
+9,Spiked Wall,Active,"Unleash a powerful slash with both hatchets from your guard position, repelling the enemy's attack. Heavily staggers the enemy if succesful. (Mid Stance Only)",Mountain Hawk,3
+10,Relentless II,Passive,Maximun Ki increasses by +20 when you have hatchets equipped as your main weapon.,"Relentless I Mountain Hawk
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+11,Relentless III,Passive,Maximun Ki increasses by +10 when you have hatchets equipped as your main weapon.,Relentless II,3
+12,Demon Undercut,Active,Throw the hatchet in your right hand at a targeted enemy's feet and cause a large amount of Ki damage (Mid stance only),"Piercing Hurl
+Dual Hurl",3
+13,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when you have hatchets equipped as your main weapon.",Greased Lightning,3
+14,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when you have hatchets equipped as your main weapon.",Cornered Boar I,3
+15,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have hatchets equipped as your main weapon.","Cornered Boar II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+16,Spinning Crab,Active,"Perform a low spinning attack with both hatchets, aimed at the enemy's feet. If the enemy is humanoid and their Ki is reduced to zero, they will fall over. (Low stance only).
+Triangle button at end of combo.",Chain Hurl,3
+17,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have hatchets equipped as your main weapon.,Spinning Crab,3
+18,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have hatchets equipped as your main weapon.,Shadow Strike I,3
+19,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have hatchets equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+20,Eagle's Shadow,Active,"Throws hatchets in a wide arc. Will reach the targeted enemy if locked on. (Low stance only).
+Command: L1 + Triangle button (triangle while guarding).","Chain Hurl
+Cleared Mission ""The Last Sun On Mount Tenno"".",3
+21,Chain Hurl,Active,"Charge your attack and throw both of your hatchets, one after another (Low stance only).
+Command: Hold Triangle button.",Base,3
+22,Chain Hurl II,Active,Prees triangle repeatdly to chain your throws. (Low stance only),Chain Hurl I,3
+23,Wolf's Rage,Active,Instantly recover from being repelled by an enemy's guard and deal a guard-breaking blow with your hatchet.,"Dual Hurl
+Chain Hurl",3
+24,Death From Above,Active,"Jump into the air and strike the gorund with your hatchets. (Mid stance only).
+Command: Hold triangle button.",Dual Hurl,3
+25,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will increase by 15% when you have hatchets equipped as your main weapon.","Piercing Hurl
+Greased Lightning",3
+26,Indomitable Spirit II,Passive,"When your health drops to 30% or lower, your Ki recovery speed will increase by 10% when you have hatchets equipped as your main weapon.",Indomitable Spirit I,3
+27,Indomitable Spirit III,Passive,"When your health drops to 30% or lower, your Ki recovery speed will increase by 5% when you have hatchets equipped as your main weapon.","Indomitable Spirit II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+28,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you have hatchets equipped as your main weapon.,"Chain Hurl
+Greased Lightning",3
+29,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have hatchets equipped as your main weapon.,Passage to the Afterlife I,3
+30,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have hatchets equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+31,Lethal Barrage,Active,"At the end of a combo, change to a backhanded grip and repeatedly strike the enemy. Repeatedly press triangle to increase the hit count. (High stance only).
+Command: triangle button at end of combo.",Piercing Hurl,3
+32,Lethal Barrage II,Active,Follow up a lethal Barrage with your a powerful attack by presing square. (High stance only).,Lethal Barrage,3
+33,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you have hatchets equipped as your main weapon.",Greased Lightning,3
+34,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you have hatchets equipped as your main weapon.",Cornered Tiger I,3
+35,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 5% when you have hatchets equipped as your main weapon.","Cornered Tiger II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+36,Piercing Hurl,Active,"Perform a charged throw with your hatchet. If you charge it to the maximum, the weapon will tear through the enemy on impact. (High stance only).
+Command: Hold triangle button.",Base,3
+37,Piercing Hurl : Light,Active,"Decreases the charge time when performing Piercirng Hurl. (High stance only).
+Command: Hold triangle button.",Piercing Hurl,3
+38,Piercing Hurl: Shadow,Active,"Increases the distance of the throw when you charge your atack further. (High stance only).
+Command: Hold triangle button.",Piercing Hurl,3
+39,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have hatchets equipped as your main weapon.",Piercing Hurl: Shadow,3
+40,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have hatchets equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ""The Sun Sets On Mount Tenne"".",3
+41,Full Moon Kata III,Passive,"While in full health, your melee damage increases by 1% when you have hatchets equipped as your main weapon.","Full Moon Kata II
+Cleared Mission ""???""",3
+42,Heaven's Clash,Passive,"Build up power before throwing your hatches in an arc. (Mid Stance Only).
+Command: L1 + Square (Square while guarding).",Dual Hurl: Light,3
+43,Bell Ringer,Active,"Thrust your hatchets directly in front of you, forcing your enemies to retreat. (Mid Stance Only).
+Command: triangle button at end of combo.","Death for Above
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+44,Mountain Hawk,Active,"Follow up a Quick Attack by fringing your hatchets at the enemy. (Mid Stance Orly).
+Command: Hold triangle button.","Dual Hurl: Light
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+45,Dragonfly,Active,"Spin your hatchets at high speed as they hang in mid-air, inflicting damage on nearby foe . (High/Mid Stance Only).
+Command: L1 + Square button (Square while guardian). ","Piercing Hurl: Light
+Cleared Mission ""The Sun Sets On Mount Tenno"".",3
+46,Dragonfly II,Active,Allows you to charge up the Dragonfly skill so that your spiming hatchets will hang in th for longer. (High/Mid Stance Only),Dragonfly,3
+47,Greaed Lightning,Active,"Only usable when hatchets are sheathed. Charge up your power before unleashing two mighty strikes upon the enemy.
+Command: Hold R1 + Square Button.",Base,3
+48,Boulder Breaker,Active,"Only usable when hatchets are sheathed. Charge up your power before throwing your hatchets forward.
+Command: Hold R1 + Square button.",Greaed Lightning,3
+49,All Ablaze,Active,"Only usable when hatchets are sheathed. Increases your attack power and movement weed in exchange for sacrificing some defense.
+Command: Hold R1 + Square","Cornered Tiger II
+Cleared Mission ""???"".",3
+50,Arise,Active,"Press triangle button when you are downed to attack while springing back up.
+Command: triagle while downed.","Cornered Boar II
+Cleared Mission ""???"".",3
+0,Black Vines, Active,"Throws the kusarigama's metal weight at an enemy and draws them close, or propels you toward them if they are immovable. (Mid/Low Stance Ony).
+Command: Hold Square button. ",Waterfall,4
+1,Serpent Strike,Active,"Throws the kusarigama's metal blade at an enemy and draws them close, or propels you toward them if they are immovable. (High Stance Ony)",Base,4
+2,Chain Pull,Active ,"Throws the kusarigama's metal weight. If the attack reduces the enemy's Ki to zero, it will draw them close and slash them with the sickle. (Low Stance Only).
+Command: L1 + Square button (Square While guarding)",Retreating Strike,4
+3,Reaper,Active ,"Slashes the enemy with the kusarigama's sickle. (Hold down the button to alter the attack.)
+Command: L1 + triangle button (triangle While guarding) ",Base,4
+4,Whirlwind,Active ,"Swing the kusarigama's metal weight in a wide circle. (Mid/Low Stance Only)
+Command: L1 + Square button (Square While guarding) ",Black Vines,4
+5,Tangle Strike,Active ,"Follows up a Quick Attack with a strike that uses the kusarigama's metal weight to slam the 
+opponent. (Mid/Low Stance Only)",Retreating Strike,4
+6,Tangle Strike II,Active ,"After performing Tangle Strike, press triangle to perform a slicing attack. (Mid/Low Stance Only) ",Tangle Strike,4
+7,Foot Sweep,Active ,Knocks an enemy down by sweeping their legs with the kusarigama's metal weight.(High Stance Only),Serpent Strike,4
+8,Waterfall,Active ,"Parries an enemy attack, throwing them backwards. (Mid Stance Only).
+Command: L1 + triangle button (triangle While guarding)
+
+",Base,4
+9,Masterful Guard,Active ,"Guard just before an incoming hit to deflect the attack and knock the attacker off balance. (Mid Stance Only).
+Command: L1 the moment before an enemy's attack conn",Waterfall,4
+10,Serpent Bite,Active ,Parry the enemy's attack before performing a follow-up attack with the kusarigama's scythe and metal weight. (Mid Stance Only),"Whirlwind
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+11,Retreating Strike,Active ,"Follows up a Quick Attack with a backstep while also pelting the enemy with the kusarigama's metal weight. 
+(Low Stance Only)
+Command: Triangle button at en of combo.  ",Base,4
+12,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have a Kusarigama equipped as your main weapon.,Waterfall,4
+13,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have a Kusarigama equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+14,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have a Kusarigama equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""???""",4
+15,Autumn Dusk,Active,"Decreases the amount of Ki consumed when dodging. but in turn, also decreases your defense. Can only be used when your swills sheathed. 
+Command: Hold R1 + Circle Button","Summer Twilight
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+16,Summer Twilight,Active,"Increases your attack strength, but also the amount of Ki damage you receive. Can only be used when your weapon is holstered.
+Command: Hold R1 + Circle button",Reaper,4
+17,Winter Dawn,Active,"Increases the amount of Ki damage you inflict, but also the the amount of Ki used when attacking. Can oily be used whensour is sheathed. 
+Command: Hold R1 + Circle Button",Autumn Dusk,4
+18,Crimson Flurry,Active,"Swings the kusarigama around, striking the enemy repeatedly. (High Stance Only).
+Command: L1 + triangle button (triangle While guarding) ",Serpent Strike,4
+19,Crimson Flurry II,Active,Press triangle button after Crimson Ray to slam down the kusarigama. (High Stance Only).,Crimson Flurry,4
+20,Whirlwind Kick,Active,"Kicks the enemy.
+Command: L1 + Square button (Square While guarding)",Serpent Strike,4
+21,Leaping Strike,Active,"Slashes upward with the kusarigama while jumping.
+Command: L1 + triangle button (triangle While guarding)",Whirlwind Kick,4
+22,Blade Spin,Active,"Spins forward with the kusarigama and slices the enemy.
+Command: L1 + Square button (square While guarding)","Summer Twilight
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+23,Renegade Dragon,Active,"Extends both the sickle blade and weight before swinging them around and unleashing a strike to finish. 
+Command: L1 + triangle button (triangle While guarding)","Cleared Mission ""???""
+Whirlwind",4
+24,Bird of Prey,Active,"Repel incoming attacks while leaping forward and slicing at the enemy. (High Stance Only).
+Command: L1 + triangle button (triangle While guarding)","Cleared Mission ""The Sun Sets On Mount Tenno"".
+Crimson Flurry",4
+25,Armor Piercer I,Passive,Increases damage of Final Blow by 8%,Foot Sweep,4
+26,Armor Piercer II,Passive,Increases damage of Final Blow by 4%,"Armor Piercer I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+27,Armor Piercer III,Passive,Increases damage of Final Blow by 4%,"Armor Piercer II
+Cleared Mission ""???""",4
+28,Relentless I,Passive,Maximum Ki increases by +30 when you have Kusarigama equipped as your main weapon.,"Reaper
+Retreating Strike",4
+29,Relentless II,Passive,Maximum Ki increases by +20 when you have Kusarigama equipped as your main weapon.,"Relentless I
+Whirlwind Kick
+Chain Pull
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+30,Relentless III,Passive,Maximum Ki increases by +10 when you have Kusarigama equipped as your main weapon.,"Relentless II
+Cleared Mission ""???""",4
+31,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 15% when you have Kusarigama equipped as your main weapon.",Reaper,4
+32,Indomitable Spirit II,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 10% when you have Kusarigama equipped as your main weapon.","Indomitable Spirit I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+33,Indomitable Spirit III,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 5% when you have Kusarigama equipped as your main weapon.","Indomitable Spirit III
+Cleared Mission ""???""",4
+34,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you have Kusarigama equipped as your main weapon.",Serpent Strike,4
+35,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you have Kusarigama equipped as your main weapon.","Cornered Tiger I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+36,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 5% when you have Kusarigama equipped as your main weapon.","Cornered Tiger II
+Cleared Mission ""???""",4
+37,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when, you have Kusarigama equipped as your main wearen.",Masterful Guard,4
+38,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when you have Kusarigama equipped as your main weapon","Cornered Boar I
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+
+ ",4
+39,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have Kusarigama equipped as your main weapon.","Cornered Boar II
+Cleared Mission ""???""",4
+40,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have a Kusarigama equipped as your main weapon.",Retreating Strike,4
+41,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have a Kusarigama equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+42,Full Moon Kata III,Passive,"While in full health, your melee damage increases by 1% when you have a Kusarigama equipped as your main weapon.","Full Moon Kata II
+Cleared Mission ""???""",4
+43,Passage to the Afterlife I,Passive ,Increases grapple damage by 4% when you base a Kusarigama equipped as your main weapon.,"Reaper
+Serpent Bite",4
+44,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a Kusarigama equipped as your main weapon.,"Passage to the Afterlife I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",4
+45,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have a Kusarigama equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ""???""",4
+0,Fire Talisman I,Jutsu,"Allows you to ready Fire Talisman I. When used, these magical items summon fire to envelop your weapon.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1.5",Base,5
+1,Fire Shot Talisman I,Jutsu,"Allows you to ready Fire Shot Talisman I
+
+When used, these allow you to summon a magical ball of flame to launch at an enemy. Amount Preparable: 1-4
+Jutsu Cost: 1.0",Fire Talisman I,5
+2,Sensory Overload Talisman I,Jutsu,"Allows you to ready Sensory Overload Talismans. When used, these magical items cause an enemy to explode if they are killed, downed, or afflicted with Scorched. Any other enemies caught in the blast will also explode. Amount Preparable: 1-4
+Jutsu Cost: 1.3","Explosive Shot Talisman I
+Devigorate Talisman I",5
+3,Water Shikigami I,Jutsu,"Allows you to ready Water Shikigami I. When used, these magical items summon a Water Shikigami I. When touched by an enemy. or struck by either friend or foe, it will inflict Water damage on enemies in the vicinity. ",Water Shot Talisman I,5
+4,Vital Spirit I,Jutsu,Acquired Amrita +2%,"Cleared Mission ''???''
+Extraction Talisman I
+Pleiades Talisman I",5
+5,Explosive Shot Talisman I,Jutsu,"Allows you to ready Explosive Shot Talisman In
+
+When used, these magical items launch an explosive ball of fire at enemies.
+
+Amount Preparable: 1-3
+Jutsu Cost: 20","Fire Shot Talisman I
+Explosive Mission: ''The Sun Sets On Mount Tenno''.",5
+6,Fire Shikigami I,Jutsu,"Allows you to ready Fire Shikigami I
+
+When used, these magical items summon a Fire Shikigami. When struck by either friend or foe, it will inflict fire damage on enemies in the vicinity.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1.8",Fire Shot Talisman I,5
+7,Fire Familiar Talisman I,Jutsu,"Allows you to ready Fire Familiar Talisman I
+
+When used, these magical items cause several fireballs to appear and follow you temporarily. Enemies that come into contact with them will suffer Fire damage, and using a Strong Attack on an enemy will cause each fireball to follow
+
+",Fire Shikigami I,5
+8,Firestop Talisman I,Jutsu,"Allows you to ready Firestop Talisman
+
+When used these magical items increase your resistance to fire. 
+
+Amount Preparable :1-4
+Jutsu Cost: 1.0",Fire Talisman I,5
+9,Firebreak Decree,Passive,This will enhance the power of the Firestop Talisman. Meaning its effects will also be applied to allies in the vicinity.,Firestop Talisman I,5
+10,Firebreak,Passive,+5.0 against fire,Firestop Talisman I,5
+11,Devigorate Talisman I,Jutsu,Allows you to ready Devigorate Talisman I,Fire Talisman I,5
+12,Weakness Talisman I,Jutsu,"Allows you to ready Weakness Talisman
+
+When used, these magical items reduce the defense of your enemy.","Devigorate Talisman I
+Waterstop Talisman I",5
+13,Archyokai Talisman I,Jutsu,"Allows you to ready Archyokai Talisman I
+
+When used, these magical items increase the amount of Yokai Force gained for a limited period of time.
+
+Amount Preparable: 1-3
+Jutus Cost: 1.6","Divination Talisman I
+Fire Shot Talisman I",5
+14,Extraction Talisman I,Jutsu,"Allows you to ready Extraction Talisman+I
+
+When used, these magical items allow you to steal Amrita from enemies hit by your attacks.
+
+Amount Preparable: 1-3
+Jutsu Cost: 25",Pleiades Talisman I,5
+15,Pleiades Talisman I,Jutsu,"Allows you to ready Pleiades Talisman
+
+When used, these magical items increase the rate at which your Avita Gauge fills up.
+
+Amount Preparable 1-3
+Jutsu Cost: 25",Divination Talisman I,5
+16,Divination Talisman I,Jutsu,"Allows you to ready Diviniation Talisman. When used, these magical items enhance the detection abilities of your compass. Amount Preparable: 1-3 Jutsu Cost: 1.5",Purification Talisman I,5
+17,Resistance Talisman I,Jutsu,"Allows you to ready Resistance Talisman I
+
+When used, these magical items increase your resistance to poison and paralysis.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1.5",Purification Talisman I,5
+18,Firestop Talisman,Jutsu,"Allows you to ready Firestop Talisman
+
+When used, these magical items increase your resistance to fire.
+
+Number ready: 1-4
+Jutsu Cost: 1.0",Base,5
+19,Resistance Talisman I,Jutsu,"Allows you to ready Resistance Talisman I. When used, these magical items increase your resistance to poison and paralysis.", ,5
+20,Resistance Decree,Passive,"This will enhance the power of the Resistance Talisman I, meaning its effects will also be applied to allies in the vicinity",Resistance Talisman I,5
+21,Steel Talisman I,Jutsu,"Allows you to ready Steel Talisman I. 
+
+When used, these magical items increase your defense.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1.5",Resistance Talisman I,5
+22,Steel Decree,Passive,"This will enhance the power of the Steel Talisman I, meaning its effects will also be applied to allies in the vicinity.",Steel Talisman I,5
+23,Protection Talisman I,Jutsu,"Allows you to ready Protection Talisman I
+
+When used, these magical items neutralize a certain amount of damage. Amount Preparable: 1-2 Jutsu Cost: 6.0",Steel Talisman I,5
+24,Evil Ward I,Passive,Reduces damage from yokai by 1%,Protection Talisman I,5
+25,Protection Decree,Passive,"This will enhance the power of the Projection Talisman, meaning its effects will also be applied to allies in the vicinity.",Protection Talisman I,5
+26,Gust Talisman I,Jutsu,"Allows you to ready Gust Talisman I
+
+These are magical items that whip up wind energy to encircle you so that projection fire at you will be repelled for a short time.
+
+Amount Preparable: 1-3
+Jutsu Costs: 25",Lightning Talisman I,5
+27,Blessed Bolt Talisman I,Jutsu,"Allows you to ready Blessed Bolt Talisman I
+
+When used, these magical items summon and fire a divine arrow, which will strike the weak spots of enemies you are locked on to or the nearest enemy in range.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1/5",Gust Talisman I,5
+28,Pure Heaven Cursed Earth,Passive,Extends the range of purification,"Purification Talisman I
+Lightning Talisman I",5
+29,Incantation Mastery I,Passive ,Increases Omyo Magica Capacity by 3,"Shockwave Talisman I
+Cleared Mission ''The Sun Sets On Mount Tenno''",5
+30,Barrier Talisman I,Jutsu,"Allows you to ready Barrier Talisman I
+
+When used, it increases your Ki recovery speed and allows you to dispel Youkai Realm pools simply by touching them.
+
+Amount Preparable: 1-3
+Jutsu Cost:25",Pure Heaven Cursed Earth I,5
+31,Purification Talisman I,Jutsu,"Allows you to ready Purification Talisman I
+
+When used, these magical items below a weapon with Purity for a limited period, inflicting additional Ki damage on yokai.
+
+Amount Preparable: 1-3
+Jutsu Cost: 15",Base,5
+32,Spirit Water I,Passive,Increases duration of Sacred Water by 20%,Barrier Talisman I,5
+33,Barrier Decree,Passive,"This will enhance the power of the Barrier Talisman, meaning its effects will also be applied to allies in the vicinity,",Barrier Talisman I,5
+34,Pure Mind I,Passive,Vs. Yokai Realm and Dark Realm +10,Purification Talisman I,5
+35,Sloth Talisman I,Jutsu,"Allows you to ready Sloth Talisman I. When used, these magical items greatly reduce the speed of your enemy.
+
+Amount Preparable: 1-3
+Jutsu Cost: 2.5","Pure Mind I
+Pure Heaven Cursed Earth",5
+36,Cutting Blast Talisman I,Jutsu,"Allows you to ready Cutting Blast Talisman I
+
+When used, these magical items temporarily imbue your weapon with the power to release shockwaves when making strong attacks.
+
+Number Ready: 1-3
+Jutsu Cost: 3.0",Gust Talisman I,5
+37,Shockwave Talisman I,Jutsu,"Allows you to ready Shockwave Talisman I
+
+When used, these magical items allow you to release a shockwave when you perform a Ki Pulse, damaging Enemies in the Vicinity.","Thunderstorm Shot Talisman I
+Cutting Blast Talisman I",5
+38,Cleric,Passive,Increases Sacred Water that can be carried by 2.,Spirit Water I,5
+39,Lightning Talisman I,Jutsu,"Allows you to ready Lightning Talisman I
+
+These are magical items that summon lightning to envelop your weapon.
+
+
+Amount Preparable 1-3
+Jutsu Cost 1.5",Base,5
+40,Thunderstorm Shot Talisman I,Jutsu,"Allows you to ready Thunderstorm Shot Talismans
+
+When used, these magical items allow you to harness the energy of thunder and lightning to inflict damage on enemies.
+
+Amount Preparable: 1-3
+Justsu Cost: 2.0",Lightning Shot Talisman I,5
+41,Lightning Shot Talisman I, Jutsu,"Allows you to ready Lightning Shot Talisman I
+
+When used, these allow you to summon a magical ball of lightning energy to launch at an enemy.
+
+Amount Preparable: 1-4
+Justu Cost: 1.0",Lightning Talisman I,5
+42,Lightningstop Talisman I,Jutsu,"Allows you to ready Lightningstop Talisman
+
+When used, these magical items increase your resistance to lightning. Amount Preparable: 1-3 Jutsu Cost: 1.0",Lightning Talisman I,5
+43,Lightningbreak I,Passive,+5.0 against lightning,Lightningstop Talisman I,5
+44,Lightning Shikigami I,Jutsu,"Allows you to ready Lightning Shikigami I
+
+When used, these magical items summon a Lightning Shikigami. When struck by either friend or foe, it will inflict lightning damage on enemies in the vicinity.
+
+Amount Preparable: 1-3
+Jutsu Cost: 1.8",Lightning Shot Talisman I,5
+45,Lightningstop Decree,Passive,"This will enhance the power of the Lightningstop Talisman, meaning its effects will also be applied to allies in the vicinity.",Lightningstop Talisman I,5
+46,Life Leech Talisman I,Jutsu,"Allows you to ready Life Leech Talisman I
+
+When used, these magical items make enemies release vitality when damaged. You can then absorb this energy to restore life.
+
+Amount Preparable: 1-4
+Jutsu Cost: 2.2",Water Talisman I,5
+47,Oasis Talisman I,Jutsu,"Allows you to read Oasis Talisman I
+
+When used, these magical items gradually restore health to any allies within range.
+
+Amount Preparable: 1-3
+Jutsu Cost: 3.0",Life Leech Talisman I,5
+48,Rejuvenation Talisman I,Jutsu,"Allows you to ready Rejuvenation Talisman I
+
+When used, these magical items gradually restore your health.
+
+Number to read: 1-3
+Jutsu Cost: 25",Oasis Talisman I,5
+49,Rejuvenation Decree,Passive,"This will enhance the power of the Rejuvenation Talisman I, meaning its effects will also be applied to allies in the vicinity.",Rejuvenation Talisman I,5
+50,Panacea Curefast I,Passive,Increases health gained from elixirs by 5%,Rejuvenation Talisman I,5
+51,Water Talisman I,Jutsu,"Allows you to ready Water Talisman
+
+These are magical items that summon water to envelop your weapon.
+
+Amount Preparable:1-3
+Jutsu Cost: 1.5",Base,5
+52,Water Shot Talisman I,Jutsu,"Allows you to ready Water Shot Talisman I
+
+When used, these allow you to summon a magical ball of water energy to launch at an enemy
+
+Amount Preparable: 1-4
+Jutsu Cost: 1.0",Water Talisman I,5
+53,Geyser Shot Talisman I,Jutsu,"Allows you to ready Geyser Shot Talisman I
+
+When used, these magical items summon forth a powerful jet of water that inflicts damage on foes.
+
+Amount Preparable: 1-3
+Jutsu Cost: 20",Water Shot Talisman I,5
+54,Waterstop Talisman I,Jutsu,"Allows you to ready Waterstop Talisman I
+
+When used, these magical items increase your resistance to water.
+
+Amount Preparable: 1-3 Jutsu Cost: 1.0",Water Talisman I,5
+55,Waterbreak I,Passive,+5.0 against water,Waterstop Talisman I,5
+56,Waterstop Decree,Passive,"This will enhance the power of the Waterstop Talisman I, meaning its effects will also be applied to allies in the vicinity.",Water Talisman I,5
+57,Guardian Spirit Talisman I,Jutsu,"Allows you to ready Guardian Spirit Talismans. When used, these magical items conjure forth Guardian Spirits to attack your foes. Amount Preparade: 1-2 Jutsu Cost: 4.0",Blessed Bolt Talisman I,5
+58,Ki Burst Talisman I,Jutsu,"Allows you to ready Ki Burst Talismans. When used, these magical items allow you to release a blast of Ki energy, inflicting damage on nearby enemies. Amount Preparade: 1-4 Jutsu Cost: 1.5",Shockwave Talisman I,5
+59,Carnage Talisman I,Jutsu,"Allows you to ready Carnage Talismans. When used, these magical items lower your defense, but increase melee attack power. Amount Preparade: 1-3 Jutsu Cost: 2.5","Archyokai Talisman I
+Cleared Mission ''The Sun Sets On Mount Tenno''",5
+60,Lifeseal Talisman I,Jutsu,Allows you to ready Lifeseal Talismans. These are magical items that reduce the enemy's ability to recover Ki. Amount Preparade: 1-3 Jutsu Cost: 2.0,"Cleared Mission ''The Sun Sets On Mount Tenno''
+Shockwave Talisman I
+
+ ",5
+61,Earthfolding Talisman,Jutsu,"Allows you to ready Earthfolding Talismans. When used, these magical items instantly transport you to the last shrine you prayed at. Amount Preparade: 1 Jutsu Cost: 8.0","Cleared Mision ''???''
+Lightningstop Decree
+Lightningbreak I",5
+62,Soul Purge Talisman I,Jutsu,"Allows you to ready Soul Purge Talismans. When used, these magical items reduce the familiarity of your equipped weapon to zero, but raise both your attack strength and luck in return. They cannot be used if your familiarity level is less than 300. Amount Preparade: 1-2 Jutsu Cost: 4.0","Fire Familiar Talisman I
+Cleared Mission''???''",5
+63,Sanctity Talisman I,Jutsu,"Allows you to ready Sanctity Talismans. When used, these magical items temporarily negate all status effects regardless of whether they are positive or negative. Amount Preparade: 1-2 Jutsu Cost: 4.0",Barrier Talisman I,5
+64,Soul Release Talisman,Jutsu,"Allows you to ready Soul Release Talismans. When used, these magical items reduce the familiarity of your equipped weapons to zero, transforming it into a blade of light that strikes the enemy. Cannot be used if familiarity is less than 300. Amount Preparade: 1 Jutsu Cost: 6.0","Fire Familiar Talisman I
+Cleared Mission''???''",5
+65,Talisman of the Fist I,Jutsu,"Allows you to ready Talismans of the Fist. When used, these magical items enhance the power of bare-handed attacks. Amount Preparade: 1-3 Jutsu Cost: 2.0","Weakness Talisman I
+Cleared Mission ''The Sun Sets On Mount Tenno''",5
+66,Luckbringer Talisman I,Jutsu,"Allows you to ready Luckbringer Talismans. When used, these magical items make it easier to find rare items. Amount Preparade: 1-2 Jutsu Cost: 6.0","Fire Talisman I
+Water Talisman I",5
+67,Weaithbringer Talismans I,Jutsu,"Allows you to ready Weaithbringer Talismans. When used, these magical items increase the amount of gold you obtain. Amount Preparade: 1-2 Jutsu Cost: 5.0",Extraction Talisman I,5
+0,Tiger-running I,Jutsu,"Allows you to ready Tiger-running Scrolls. When used, these scrolls increases your top running and dash speeds. Amount Preparable 1-2 Jutsu Cost 3.0",Base,6
+1,Caltrops I,Jutsu,Allows you to ready Caltrops. Scatter these caltrop spikes on the ground to inflict damage and reduce the movement speed of those who step on them. Amount Preparable 1-6 Jutsu Cost 0.8,Shuriken I,6
+2,Endurace,Passive,Reduces damage over time inflicted by Poison and fire by 6%.,"Caltrop Ball I
+Cleared Mission ''The Sun Sets On Mount Tenno''",6
+3,Frugality,Passive,Give a chance to retrieve arrows or bullets that dealt the killing shot to an enemy's weak point.,Poison Arrows I,6
+4,Healer,Jutsu,Increases elixir that be can carried by 1.,Medicine: Seven-Herb Pills I,6
+5,Medicine: Power Pill I,Jutsu,"Allows you to ready Power Pill. When take, these medicinal pills temporarily enhace you attack strength. Amount Preparable 1-3 Jutsu Cost 2.0 ",Medicine: Seven-Herb Pills I,6
+6,Fire: Gunpowder Bomb I,Jutsu,"Allows you to ready Iga gunpowder bombs. When thrown, this explosive device detonates on impact and damage all enemies in the vicinity. Amount Preparable 1-4 Jutsu Cost 1.3",Base,6
+7,Fire: Shrapnel Bomb I,Jutsu,"Allows you to ready Iga shrapnel bombs. When thrown, this explosive device detonates on impact, sending ceramic shards flying and inflicting significant damage on all enemies in the vicinity. Amount Preparable 1-4 Jutsu Cost 1.3",Fire: Gunpowder Bomb I,6
+8,Fire: Enhanced Shrapnel Bomb I,Jutsu,"Allows you to ready Iga enhanced shrapnel  bombs. When thrown, these devices explode on impact. The resulting blast and flying ceramic shards inflict devastating damage on all enemies in the vicinity. Amount Preparable 1-2 Jutsu Cost 7.0","Cleared Mission ''The Sun Sets On Mount Tenno''
+Fire: Shrapnel Bomb I",6
+9,Caltrop Ball I,Jutsu,"Allows you to ready Caltrop Balls. When thrown, this explosive device detonates on impact, scaltering caltrop spikes. Amount Preparable 1-2 Jutsu Cost 5.0","Cleared Mission ''The Sun Sets On Mount Tenno''
+Caltrops I",6
+10,Healing: Anti-toxin Pill I,Jutsu,"Allows you to ready Anti-toxin Pill. When taken, this pills neutralize the Poisoned  status ailment and dispel all Poison accumulation, simultaneously boostig your resistance to Poison. Amount Preparable 1-3 Jutsu Cost 1.0",Poison: Gallnut Broth I,6
+11,Dashing,Passive,Reduces the Ki consumed by dashing by 5%,Tiger-running I,6
+12,Cloudrunner,Passive,Increases normal running speed by 5%,"Dashing
+Cleared Mission ''The Sun Sets On Mount Tenno''",6
+13,Levitation,Jutsu,"Allows you to ready Levitation Scroll. When used, these scrolls grant temporary inmunity to terrain effects. Amount Preparable 1-3 Jutsu Cost 1.5",Dashing,6
+14,Sneak Attack,Active,"Pressing triangle from behind an enemy that hasn't noticed you, will perform a powerful attack.",Tiger-running I,6
+15,Catwalking I,Jutsu,"Allows you to ready Catwalking Scroll. When used, these scrolls allow you to move in total silence, excluding attacks, and also decrease damage when you fall from high places. Amount Preparable 1-4 Jutsu Cost 1.0",Tiger-running I,6
+16,Kodama Transformation I,Jutsu,"Allows you to ready Kodama Transformation scroll. When used, these scrolls temporarily transforms you into a Kodama, causing enemies to ignore you. Amount Preparable 1-4 Jutsu Cost 0.5",Sneak Thief Scroll I,6
+17,Sneak Thief,Passive,The enemy will drop an item when you pull off a successful sneak atack,"Sneak Attack
+Cleared Mission ''The Sun Sets On Mount Tenno''",6
+18,Sneak Thief Scroll I,Jutsu,"Allows you to ready Sneak Thief Scrolls. When used, these scrolls allows you to become more elusive, making it difficult for enemies to find you, though your defense is also reduced. As soon as an enemy spots you, the scrolls effects disappear. Amount Preparable 1-5 Jutsu Cost 0.6","Sneak Attack
+Catwalking I",6
+19,Smoke Ball I,Jutsu,"Allows you to ready Smoke Ball. When trhown, these devices creates a smokescreen that allows you to hide from enemies.",Fire: Gunpowder Bomb I,6
+20,Shadow Arts: Yaroka Water I,Jutsu,"Allows you to ready Yaroka Water feather. When used, it inflicts water damage and major Ki damage on your enemy. If an enemy's Ki depleted, it will inflict major water damage. Amount Preparable 1-3 Jutsu Cost 2.0",Smoke Ball I,6
+21,Shadow Arts: Raijin I,Jutsu,"Allows you to ready Raijin feather. When used, it inflicts lighting damage and major Ki damage on your enemy. If the enemy's Ki is depleted, it will inflict major lightning damage.",Smoke Ball I,6
+22,Shadow Arts: Flaming Heron I,Jutsu,"Allows you to ready Flaming heron feather. When used, it inflicts fire damage and major Ki damage on your enemy. If the enemy's Ki depleted, it will inflict major fire damage. Amount Preparable 1-3 Jutsu Cost 2.0",Smoke Ball I,6
+23,Quick-Change I,Jutsu,"Allows you to ready Quick-change Scroll. When used, these scrolls Temporarily allow you to survive an enemy's attack that would otherwise reduce your health to zero. Amount Preparable 1-2 Jutsu Cost 6.0","Shadow Arts: Yaroka Water I
+Shadow Arts: Raijin I
+Shadow Arts: Flaming Heron I
+Cleared Mission ''The Sun Set On Mount Tenno''",6
+24,Dodging,Passive,Reduces Ki consumed by dodging by 5%,"Quick-Change I
+Cleared Mission ''???''",6
+25,Fire: Kayaku-dama,Jutsu,"Allows you to ready Iga Style Kayaku-dama. When thrown, this explosive device detonates on impact and damage all enemies in the vicinity",Base,6
+26,Groundfire I,Jutsu,"Allows you to ready Groundfire trap. When set, these traps will explode, either when an enemy steps on them, or after a set period of time has elapsed. Amount Preparable 1-4 Jutsu Cost 2.0",Fire: Gunpowder Bomb I,6
+27,Fire: Shuriken I,Jutsu,"Allows you to ready shuriken. These throwing stars burst into flames upon impact, inflicting additional damage on their target","Fire: Gunpowder Bomb I
+Shuriken I",6
+28,Shuriken II,Jutsu,Allows you to ready shuriken with greater efficiency. Throw these razor-edged stars at enemies to inflict damage,Shuriken I,6
+29,Snakebite Technique,Jutsu,Increases recurrent damage dealt by 10%,Cleared Mission ''The Sun Sets On Mount Tenno'',6
+30,Bomb-making,Passive,Increases damage of gungpower and shraped bombs by 6%,"Fire: Enhanced Shrapnel Bomb I
+Cleared Mission ''???''",6
+31,Saboteur,Passive,Icreases gunpowder and shrapnel bomb carrying capacity by 1.,Fire: Shrapnel Bomb I,6
+32,Shuriken III,Jutsu,Allows you to ready shuriken with greater efficiency. Throw these razor-edged stars at enemies to inflict damage,Shuriken II,6
+33,Rakansen Coin,Jutsu,"Allows you to ready Rakansen Coin. Throwing  it deals damage to the enemy. This item does not dissapear, but ussing it will cost a small ammount of money. Amount Preparable 1 Jutsu Cost 1.0",Kunai I,6
+34,Noxious Grounfire I,Jutsu,"Allows you to ready Noxious Grounfire traps. When set, these traps will explode either when an enemy steps on them, or after a set period of time has elapsed, scattering foul-smelling pollutans over the surrounding area. Amount Preparable 1-4 Jutsu Cost 1.0","Paralytic Groundfire I
+Toxic Groundfire I",6
+35,Shuriken I,Jutsu,Allows you to ready shuriken. Throw these razor-edged stars at enemies to inflict damage,Base,6
+36,Shuriken Shooter,Active,"After throwing a shuriken, pressing the assigned button again throws another shuriken",Shuriken I,6
+37,Thrown Blade Technique I,Passive,Increases shuriken damage by 5%.,Shuriken Shooter,6
+38,Kunai I,Jutsu,"Allows you to ready kunai. When thrown, these items inflict damage on your enemy. Amount Preparable 1-7 Jutsu Cost 0.7",Shuriken I,6
+39,Storm Kunai I,Jutsu,"Allows you to ready Storm Kunai. When thrown, these kunai inflict damage on your enemies. Amount Preparable 1-4 Jutsu Cost 1.5",Kunai I,6
+40,Ninja Tool Mastery I,Passive,Increases Ninjitsu capacity by 3.,"Caltrops I
+
+Poison Shuriken I
+Cleared Mission ''The Sun Sets On Mount Tenno''.",6
+41,Medicine: Anti-toxin Pill,Jutsu,"Allows you to ready Anti-toxic pill. When taken, these pills neutralise poison and remove the accumulation of toxins, while also boosting resistance to poison.",Base,6
+42,Poison Control I,Passive,+5.0 against poison.,Medicine: Anti-toxin Pill I,6
+43,Poison: Gallnut Broth I,Jutsu,"Allows you to ready gallnut broth. When used, this broth gives your weapon a poisoning effect. Amount Preparable 1-4 Jutsu Cost 1.5",Base,6
+44,Poison: Blister-Beetle Powder I,Jutsu,"Allows you to ready blister-beetle powder. When thrown, it explodes on impact and releases a cloud of poisonous dust. Those who breath in the powder will become poisoned. Amount Preparable 1-3 Jutsu Cost 1.6",Poison: Gallnut Broth I,6
+45,Toxic Groundfire I,Jutsu,"Allows you to ready toxic groudfire trap. When set, these traps will explode, either when an enemy steps on them, or after a set period of time has elapsed, scattering poisonous powder over the sorrounding area. Amount Preparable 1-4 Jutsu Cost 1.5",Poison: Blister-Beetle Powder I,6
+46,Eagle Eye,Jutsu,"Allows you to ready eagle eye Scroll. When  used, these scrolls temporarily increase the power of your arrows when you aim with your bow at an enemy for an extended period of time. Amount Preparable 1-3 Jutsu Cost 0.8",Tiger-running I,6
+47,Poison Arrows I,Jutsu,Allows you to ready Poison Arrow. These arrows have been treated with a toxic tincture that makes them poisionous for a limited time. Preparable 1-4 Jutsu Cost 1.5,Eagle Eye I,6
+48,Poison Shuriken I,Jutsu,"Allows you to ready Poison Shuriken. When thrown, these weapons poison enemies as well as inflicting physical damage. Amount Preparable 1-6 Jutsu Cost 1.7","Poison: Gallnut Broth I
+Shuriken I",6
+49,Poison: Hemlock Broth I,Jutsu,"Allows you to ready hemlock broth. When used, this broth gives your weapon a paralyzing effect.",Poison: Gallnut Broth I,6
+50,Poison: Medusa Powder I,Jutsu,"Allows you to ready Medusa Powder. When thrown, it explodes on impact and realeses a cloud of paralysing dust. Those who breath in the powder will become paralyzed. Amount Preparable 1-3 Jutsu Cost 1.6",Poison: Hemlock Broth,6
+51,Blinding Shell I,Jutsu,"Allows you to ready Bliding Shells. When thrown, these devices explode sending a cloud of fine particles into the air. Enemies affected will have their vision impaired and will atack blindly.","Poison: Medusa Powder
+Poison: Blister-Beetle Powder I",6
+52,Paralytic Groundfire I,Jutsu,"Allows you to ready Paralytic Groundifre trap. When set, these traps will explode, either when an enemy steps on them, or after a set period of time has ellapsed, scattering a neurotoxin powder over the sorrounding area. Amount Preparable 1-34 Jutsu Cost 1.5",Poison: Medusa Powder,6
+53,Medicine: Siki-gan Pill,Jutsu,"Allows you to ready Shiki-gan Pill. When taken, these pills cure paralysis and removes the accumulation of paralytic effects, while also increasing your resistance to paralysis. These pills may be used while paralyzed.",Base,6
+54,Medicine: Seven-Herb Pills I,Jutsu,"Allows you to ready Seven-Herb Pills. When taken, these pills naturalize the Paralyzed status ailment and dispel all Paralysis accumulation,  simultaneously boosting your resistance to Paralysis. These pills may be used while paralyzed. Amount Preparable 1-3 Jutsu Cost 1.0",Poison: Hemlock Broth I,6
+55,Paralytic Control I,Passive,+5.0 against paralysis.,Medicine: Seven-Herb Pills I,6
+56,Stun Arrows I,Jutsu,"Allows you to ready Stun Arrow. When used, this tincture ibmues arrows with a paralyzing effect. Amount Preparable 1-4 Jutsu Cost 1.5",Poison: Arrows I,6
+57,Paralysis Shuriken I,Jutsu,"When Thrown, these weapons paralyze enemies as well as inflicting physical damage.",Poison Shuriken I,6
+0,Bolting Boar,Active,Sidestep an enemy attack before knocking them to the ground. (Mid stance only),Base,7
+1,Undaunted,Active,"Stab your weapon into the ground, solidifying your defense.
+Command: L1 + Square button (square While guarding)",Imperative Strike,7
+2,Defense Arts I,Passive,Increases Ki recovery speed while guarding by 20% when you have an odachi equipped as your main weapon.,Bolting Boar,7
+3,Defense Arts II,Passive,Increases Ki recovery speed while guarding by 15% when you have an odachi equipped as your main weapon.,"Defense Arts I
+Cleared Mision ""The Sun Sets On Mount tenno"".",7
+4,Defense Arts III,Passive,Increases Ki recovery speed while guarding by 10% when you have an odachi equipped as your main weapon.,"Defense Arts II
+Cleared Mission ""???""",7
+5,Charging Bull,Active,"Slashes downward with the odachi. If the attack reduces an enemy's Ki to zero, it will knock them down. (Mid Stance only).
+Command: triangle button at end of combo ",Bolting Boar,7
+6,Cuckoo's Call,Active,"Deflects the enemy's attack, then perform a slashing attack. (Press and hold the button to extend the duration of the blocking phase.) (Mid stance only).
+Command: L1 + Square button (square while guarding)","Charging Bull
+Cleared Mission ''The Sun Sets On Mount Tenno''.",7
+7,Moonlit Snow,Active,Press ___ button to perform up to three powerful hits in succession. The technique can be changed by pressing and holding down ___ button from any stance.,"Cuckoo's Call
+Cleared Mission ''The Sun Sets On Mount Tenno''.",7
+8,Tail Strike,Active,"Use the hilt of the sword to throw an enemy off balance. (Mid/Low stance only).
+Command triangle button at end of combo.",Bolting Boar,7
+9,Crashing Waves,Active,"Charges into the enemy, knocking them off balance.
+Command: L1 + Square button (square while guarding)","Tail Strike
+Cleared Mission ''The Sun Sets On Mount Tenno''.",7
+10,Waking Winds: Heaven,Active,"Allows you to follow up a quick attack from a mid or low stance with a strong attack from the high stance. (Mid/Low stance only).
+Command: triangle at end of combo.","Bolting Boar
+Tiger's Blade",7
+11,Sunset Breeze: Heaven,Active,"Allows you to follow up a strong attack from mid or low stance with a quick attack from high stance. (Mid/Low stance only).
+Comand: square at end of combo.",Waking Winds: Heaven,7
+12,Armor Piercer I,Passive,Increases Final Blow damage by 4% when you have an odachi equipped as your main weapon.,Twin Moons,7
+13,Armor Piercer II,Passive,Increases Final Blow damage by 3% when you have  an odachi equipped as your main weapon.,"Armor Piercer I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",7
+14,Armor Piercer III,Passive,Increases Final Blow damage by 2% when you have  an odachi equipped as your main weapon.,Armor Piercer II,7
+15,Tiger's Blade,Active,"Leaps above an enemy and cleaves them in two. (Low stance only).
+Command: L3 Up + triangle burron at end of combo.",Base,7
+16,Groundquake,Active,"Strikes the ground with great force, creating a shockwave that damages the area.","Twin Moons
+Imperative Strike",7
+17,Swallow Wing,Active,"At the end of a combo, you perform a backflip while delivering a final sword slash.
+Command: Triangle button at end of combo.",Tiger's Blade,7
+18,Imperative Strike,Active,Performs a single powerful strike after drawing the sword. Can only be used when your sword is sheathed,Base,7
+19,Retrograde Flow,Active,"Stabs the odachi into the earth, then kicks the blade to wound an enemy. If the attack reduces an enemy's Ki to zero, it will send them flying.",Tiger's Blade,7
+20,Dawn's Light,Active,"After getting knocked down, press triangle button to attack while getting back up.
+Command: triangle While downed","Retrograde Flow
+Cleared Mission ''???''",7
+21,Tachi Arts I,Passive,Increases melee damage against enemies with full health by 5% when you have an odachi equipped as your main weapon.,Undaunted,7
+22,Tachi Arts II,Passive,Increases melee damage against enemies with full health by 4% when you have odachi equipped as your main weapon.,"Tachi Arts I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",7
+23,Tachi Arts III,Passive,Increases melee damage against enemies with full health by 3% when you have an odachi equipped as your main weapon.,"Tachi Arts II
+Cleared Mision ""???""",7
+24,Waking Winds: Man,Active,"Allows you to follow up a quick attack from a high or low stance with a strong attack from mid stance. (High/Low stance only).
+Command: Hold R1 + circle button",Imperative Strike,7
+25,Sunset Breeze: Man,Active,Allows you to follow up a strong attack from high or low stance with a quick attack from mid stance. (High/Low stance only),Waking Winds: Man,7
+26,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you have an odachi equipped as your main weapon.,"Tiger's Blade
+Imperative Strike",7
+27,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have an odachi equipped as your main weapon.,Passage to the Afterlife I,7
+28,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have an odachi equipped as your main weapon.,Passage to the Afterlife II,7
+29,Clarity,Active,"Hastens your Ki recovery by sacrificing movement speed. Can only be used when your sword is sheathed.
+Command: Hold R1 + Square Button.",Imperative Strike,7
+30,Relentless I,Passive,Maximum Ki increases by +30 when you have an odachi equipped as your main weapon.,Clarity,7
+31,Relentless II,Passive,Maximum Ki increases by +20 when you have an odachi equipped as your main weapon.,"Relentless I
+Cleared Mssion ""The Sun Sets On Mount Tenno"".",7
+32,Relentless III,Passive,Maximum Ki increases by +10 when you have an odachi equipped as your main weapon.,Relentless II,7
+33,Devastating Rush,Active,"Build up power while drawing the odachi, then unleashes a fierce thrust forward.
+Command: Hold tirangle button",Twin Moons,7
+34,First Rule of Thrusting,Passive,Damage of thrust attacks increases by 3% when you have an odachi equipped as your main weapon.,Devastating Rush,7
+35,Second Rule of Thrusting,Passive,Damage of thrust attacks increases by 2% when you have an odachi equipped as your main weapon.,"First Rule of Thrusting
+Cleared Mission "" The Sun Sets On Mount Tenno"".",7
+36,Third Rule of Thrusting,Passive,Damage of thrust attacks increases by 1% when you have an odachi equipped as your main weapon.,"Second Rule of Thrusting
+Cleared Mission ""???""",7
+37,Twin Moons,Active,"Rapidly slashes upwards twice. (High Stance  Only).
+Commando: triangle button at end of combo.",Base,7
+38,Sword of Severance I,Passive,Increases damage of odachi attacks against humans by 6%,Twin Moons,7
+39,Sword of Severance II,Passive,Increases damage of odachi attacks against humans by 3%,Sword of Severance I,7
+40,Sword of Severance III,Passive,Increases damage of odachi attacks against humans by 3%,Sword of Severance II,7
+41,Waking Winds: Earth,Active,"Allows you to follow up a quick attack from high or mid stance with a strong attack from low stance. (High/Mid stance only).
+Command: triangle button at end of combo.","Twin Moons
+Bolting Boar",7
+42,Sunset Breeze: Earth I,Active,"Allows you to follow up a strong attack from high or mid stance with a quick attack from low stance. (High/Mid stance only).
+Command: Square button at end of combo",Waking Winds: Earth,7
+43,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have an odachi equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""???""",7
+44,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have an odachi equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",7
+45,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have an odachi equipped as your main weapon.,Retrograde Flow,7
+0,Ki Pulse: Heaven,Active,Activates when you recover full Ki from Ki Pulse. Applies a special effect that raises the damage caused by your next attack. (High Stance only), Base,8
+1,Masterful Slice,Custom Active Skills,Increases the Ki damage dealt by certain Active Skills by 20%. Ki consumption Rate 1.40,Running Water: Man,8
+2,Round Carrier,Passive,Increases the number of cannon rounds that can be carrier by 1,Cannonmaster I,8
+3,Final Blow,Active,Grapple a downed enemy before fallowing up with a powerful attack.,Stance,8
+4,Quivermaker,Passive,Increases the number of arrows that can be carrier by 3,Bowmaster I,8
+5,Shot Pouch,Passive,Increases the number of rifle rounds that can be carrier by 2,Matchlock Master I,8
+6,Damage Boost: Courage,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Courage. Ki Consumption Rate 1.10,"Cleared Mission ''The Sun Sets On Mount Tenno''
+Composure",8
+7,Damage Boost: Magic,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Magic. Ki Consumption Rate 1.10,Purify Yokai Realm: Earth,8
+8,Damage Boost: Constitution,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Constitution. Ki Consumption Rate 1.10,"Cleared Mission ''The Sun Sets On Mount Tenno''
+Fortitude II",8
+9,Damage Boost: Skill,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Skill. Ki Consumption Rate 1.10,"Bowmaster I
+Masterful Slice",8
+10,Damage Boost: Heart,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Heart. Ki Consumption Rate 1.10,Deliberate Slice,8
+11,Cannonmaster I,Passive,Increases cannon damage by 5%.,"Matchlock Master I
+Cleared Mission ''??''",8
+12,Damage Boost: Strength,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Strength. Ki Consumption Rate 1.10,"Reckless Slice
+Cleared Mission: ''The Sun Sets On Mount Tenno''",8
+13,Running Water: Heaven,Active,Dodging at the perfect timing will now automatically trigger a Ki Pulse. (High stance only),Ki Pulse: Heaven,8
+14,Bowmaster I,Passive,Increases bow damage by 5%,"Ki Pulse: Man
+Ki Pulse: Heaven",8
+15,Matchlock Master I,Passive,Increases matchlock damage by 5%,Bowmaster I,8
+16,Deliberate Slice,Custom Active Skills,Increases the maximum amount of that can be recovered by Ki Pulse by for 30% certain Active Skills. Ki consumption Rate 1.20,Flux II,8
+17,Bowmaster II,Passive,Increases bow damage by 3%,Bowmaster I,8
+18,Ki Pulse: Man,Active,Activates when you recover full Ki from a Ki Pulse. Applies a special effect that negates the Ki damage you receive from the next attack that hits your guard. (Mid stance only),Base,8
+19,Running Water: Man,Active,Dodging at the perfect timing all now automatically trigger a Ki Pulse (Mid stance only),Ki Pulse: Man,8
+20,Fortitude I,Passive,Life +50,Hands of Death I ,8
+21,Fortitude II,Passive,Life +30,"Fortitude I
+Damage Boost: Stamina
+Cleared Mission ''The Sun Sets on Mount Tenno''",8
+22,Damage Boost: Stamina,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Stamina. Ki Consumption Rate 1.10,Running Water: Man,8
+23,Damage Boost: Dexterity,Custom Active Skills,Grants certain Active Skills a damage bonus based on your Dexterity. Ki Consumption Rate 1.10,Nimble Slice,8
+24,Reckless Slice,Custom Active Skills,"Increases the damage dealt by certain Active Skills by 10%. In exchange, you will not be able to perform a Ki Pulse. ",Running Water: Heaven,8
+25,Fortitude III,Passive,Life +20,"Fortitude II
+Composure",8
+26,Hands of Death I,Passive,Increases bare-handed attack damage by 20%,"Ki Pulse: Man 
+Ki Pulse: Earth",8
+27,Composure,Active,Pressing  __ buttons when guarding against armed human enemy to take their weapons and perform a counterattack. Can only be used when bare-handed.,Hands of Death I,8
+28,Hands of Death II,Passive,Increases bare-handed attack damage by 20%,Hands of Death I,8
+29,Hands of Death III,Passive,Increases bare-handed attack damage by 20%,"Hands of Death II
+Cleared Mission ''???''",8
+30,Nimble Slice,Custom Active Skills,"Reduces the damage dealt by certain Active Skills by 20%. In exchange, they will consume less ki to perform. Ki Consumption Rate 0.90",Running Water: Earth,8
+31,Ki Pulse: Earth,Active,Activates when you recover full Ki from a Ki Pulse. Applies a special effect that negates the Ki consumption resulting from your next dodge action. (Low stance only),Base,8
+32,Running Water: Earth,Active,Dodging at the perfect timing will now automatically trigger a Ki Pulse. (Low stance only),Ki Pulse: Earth,8
+33,Grapple,Active,"Grapples a human enemy who is out of Ki or a downed yokai, then follows up with a powerful attack.",Stance,8
+34,Stance,Active,"Press ___ Buttons to switch between high, mid  and low stances.",Base,8
+35,Ki Pulse,Active,"When surrounded by blue light after an attack, press ___ button to recover your Ki.",Stance,8
+36,Purify Yokai Realm,Active,"Activates when you recover the maximum amount of Ki from a Ki Pulse, while inside a Yokai Realm pool. Purifies and removes any Youkai Realm pools around you.",Ki Pulse,8
+37,Purify Yokai Realm: Heaven,Passive,"While in High Stance: Increases your attack strength when you perform a purification with a perfectly timed Ki Pulse, recovering the maximum amount of Ki possible.",Ki Pulse: Heaven,8
+38,Purify Yokai Realm: Man,Passive,"While in Mind Stance: Increases your defense when you perform a purification with a perfectly timed Ki Pulse, recovering the maximum amount of Ki possible.",Ki Pulse: Man,8
+39,Purify Yokai Realm: Earth,Passive,"While in Low Stance: Increases your Ki recovery Speed when you perform a purification with a perfectly timed Ki Pulse, recovering the maximum amount of Ki possible.",Ki Pulse: Earth,8
+40,Flux,Active,Changing to another stance or a successful Ki Pulse increases the amount of Ki recovered,Ki Pulse,8
+41,Flux II,Active,Increases Ki recovery when you with dances during Flux.,Flux,8
+42,Flash Attack,Active,Performs a quick attack when switching weapons after a successful Ki Pulse,Flux II,8
+0,Burst Counter: Brute,Active,"Consume 1 Anima to unleash a devastating attack. Deals immense Ki damage if you successfully interrupt an enemy's Burst Attack. (Only available for Brute type). Guardian Spirits).
+Command: R2 + Square Button.",Base,9
+1,Burst Counter: Feral,Active,"Consume 1 Anima to dash forward, leaving an afterimage in your wake. Allows you to perform a follow-up attack and deal immense Ki damage if an enemy's Burst Attack comes into contact with your afterimage. (Only available for Feral type Guardian Spirits.)
+Command: R2 + Square Button.",Base,9
+2,Burst Counter: Phantom,Active,"Consume 1 Anima to guard against incoming enemy attacks. Guard against a Burst Attack at the right moment to stagger the enemy and deal immense Ki damage. (Only available for Phantom type Guardian Spirits.)
+Command: R2 + Square Button",Base,9
+3,Fang Break,Active,"Repels an incoming attack, staggering the enemy. (Only available when in Brute form.)
+Command: L1 + Triangle Button (triangle while guarding).",Burst Counter: Brute,9
+4,Shadowstep,Active,Allows you to perform a dodge in the middle of a Quick Attack. (Only available when in Feral form.),Burst Counter: Feral,9
+5,Shadowstab,Active,Allows you to perform a Quick Attack immediately after using Shadowstep. (Only available when in Feral form.),Shadowstep,9
+6,Blood Moon: Yin,Active,"Holding down L2 readies your weapon for an aimed throw at the enemy executed by pressing R2 . If your weapon finds its mark, you will instantly be teleported to your enemy's side. (Only available when in Phantom form.)",Burst Counter: Phantom,9
+7,Blood Moon: Yang,Active,"Perform a Strong Attack, or follow a Quick Attack with a Strong Attack to throw your weapon. (Only available when in Phantom form.)",Burst Counter: Phantom,9
+8,Demonic Destruction I,Passive,Reduces the depletion of the Yokai Shift Gauge by 10% when performing attacks in yokai form.,Fang Break,9
+9,Dragon Vein I,Passive,Increases the rate at which you gain Anima by 3%.,"Imperious Strike
+Requires a certain amount of Astral Wisdom",9
+10,Hasten Awakening I,Passive,Increases the rate at which your Yokai Weapon gains Sentience by 10%.,"Requires a certain amount of Astral Wisdom
+Arcana of Fire",9
+11,Enduring Awakening I,Passive,Extends the amount of time your Yokai Weapon remains in an Awakened State by 10%.,"Requires a certain amount of Astral Wisdom
+Arcana of Water",9
+12,Dark Vitality I,Passive,Increases the amount of health you recover by 10% while in the Dark Realm.,Dark Discipline I,9
+13,The Dragon's Echo I,Passive,Recovers 5% of the Anima spent to perform a Yokai Ability if its type matches the type of your Guardian Spirit.,Absorb Yokai Realm I,9
+14,Guardian Bond: Aether,Passive,Extends the duration a Scampuss will accompany you by 10%.,The Yokai Within I,9
+15,Sudama Friend I,Passive,Increases your chances of receiving a valuable item from a Sudama by 5%.,"Requires a certain amount of Astral Wisdom
+Guardian Bond: Shadow I",9
+16,Curative Cores I,Passive,Restores 40% of your health when you obtain a Soul Core.,"Special Finesse: Recuperate I
+Requires a certain amount of Astral Wisdom",9
+17,Arcana of the dead,Custom Active Skills,"Increases the damage and Ki damage dealt by certain Active Skills by 5%. In exchange, any elemental effects of these skills will be lost.","Soul Atrophy I
+Requires a certain amount of Astral Wisdom",9
+18,Arcana of Serpents,Custom Active Skills,"Imbues certain Active Skills with the Poison element.
+Ki Consumption Rate 1.20","Special Finesse: Invigorate
+Requires a certain amount of Astral Wisdom.",9
+19,Earth Vein I,Passive,Increases your maximum Anima by 0.5.,"Requires a certain amount of Astral Wisdom.
+Special Finesse: Refresh I",9
+20,Arcana of Vermin,Custom Active Skills,"Imbues certain Active Skills with the Paralysis element.
+Ki Consumption Rate 1.20",Requires a certain amount of Astral Wisdom,9
+21,Arcana of Fire,Custom Active Skills,"Imbues certain Active Skills with the Fire element.
+
+Ki Consumption Rate 1.40","Fiendish Maw I
+Requires a certain amount of Astral Wisdom",9
+22,Guardian Bond: Aether,Passive,Imbues the shockwave that is produced when activating Yokai Shift with an element determined by your Guardian Spirit.,Special Finesse: Refressh I,9
+23,Demonic Discipline I,Passive,Extends the duration of Yokai Shift by 7%.,Burst Counter: Feral,9
+24,Silver Lining I,Passive,Increases your Luck by 5 while in the Dark Realm.,"Requires a certain amount of Astral Wisdom
+The Dark Within I",9
+25,Guardian Bond: Light I,Passive,Increases damage dealt by Guardian Spirit Skills by 5%.,"Blood Moon: Yang
+Fiendish Maw I",9
+26,Demonic Tenacity I,Passive,Reduces the depletion of the Yokai Shift Gauge by 10% when taking damage in yokai form.,Burst Counter: Brute,9
+27,Demonic Defense I,Passive,Reduces the depletion of the Yokai Shift Gauge by 20% when guarding in yokai form.,Blood Moon: Yin,9
+28,Demonic Dexterity I,Passive,Reduces the depletion of the Yokai Shift Gauge by 10% when dodging in yokai form.,Burst Counter: Feral,9
+29,Dark Discipline I,Passive,Extends the duration of Yokai Shift by 14% while in the Dark Realm.,"Demonic Discipline I
+Dark Acumen I",9
+30,Guardian Bond: Shadow I,Passive,Reduces the depletion of the Yokai Shift Gauge by 5% when using a Guardian Spirit Skill in yokai form.,Demonic Dexterity I,9
+31,Soul Atrophy I,Passive,Yokai Abilities reduce an enemy's maxinun Ki by 3% more than norm.,"Requires a certain amount of Astral Wisdom
+Arcana of Serpents
+Arcana of Water",9
+32,Quelling Requiem I,Passive,Increases the drop rate of Soul Cores by 3%.,"Requires a certain amount of Astral Wisdom
+Demonic Acumen I",9
+33,Demonic Acumen I,Passive,Increases the drop rate of items by 5% while you are in Yokai Shift.,"Requires a certain amount of Astral Wisdom
+Arcana of Lightning",9
+34,Demonic Ascension I,Passive, Increases the amount of Amrita earned by 5% while you are in Yokai Shift.,Demonic Discipline I,9
+35,Dark Ascension I, Passive, Increases the amount of Amrita earned by 3% while in the Dark Realm. ,"Requires a certain amount of Astral Wisdom
+Dark Discipline I",9
+36,The Dark Within I,Passive,Reduces the penalty to your Ki recovery speed while in the Dark Realm by 15%.,The Yokai Within I,9
+37,Dark Acumen I,Passive,Increases the drop rate of items by 2% while in the Dark Realm.,Burst Counter: Feral,9
+38,Fiendish Maw I,Passive,Restores 20% of your health when you successfully grapple an enemy while in Yokai Shift.,Burst Counter: Brute,9
+39,The Yokai Within I,Passive,Reduces the penalty to your Ki recovery speed while in the Yokai Realm by 15%.,Devour Yokai Realm I,9
+40,Special Finesse: Refresh I,Passive,Restores 40% of your Ki when you successfully perform a Burst Counter.,"Requires a certain amount of Astral Wisdom
+Arcana of Lightning",9
+41,Special Finesse: Recuperate I,Passive,Restores 20% of your health when you successfully perform a Burst Counter if your health is dangerously low.,"Requires a certain amount of Astral Wisdom
+Arcana of Fire
+Murderous Strike",9
+42,Special Finesse: Focus,Passive,Increases the damage dealt by your next Yokai Ability when you successfully perform a Burst Courtier.,"Requires a certain amount of Astral Wisdom
+Special Finesse: Refresh I",9
+43,Special Finesse: Invigorate,Passive,Increases your Ki recovery speed when you successfuly perform a Burst Counter.,Burst Counter: Phantom,9
+44,Devour Yokai Realm I,Passive,"Increases your Anima by 1.2 when you purify the Yokai Realm with a perfectly timed Ki Pulse, recovering the maximum amount of ki possible.",Base,9
+45,Absorb Yokai Realm I,Passive,"Allows you to use a Yokai Ability while in the Yokai Realm to purify it, increasing your Anima by 0.7.",Devour Yokai Realm I,9
+46,Feline Friend I,Passive,Extends the duration a Scampuss will accompany you by 10%.,"Requires a certain amount of Astral Wisdom
+Guardian Bond: Light I",9
+47,Arcana of Water,Custom Active Skills,Imbues certain Active Skits with the Water element.,"Requires a certain amount of Astral Wisdom
+Blood Moon: Yang",9
+48,Arcana of Lightning,Custom Active Skills,Imbues certain Active Skills with the lightning element. Ki Consumption Rate 1.40 ,"Requires a certain amount of Astral Wisdom
+Demonic Dexterity I",9
+49,Arcana of Power,Custom Active Skills,"Imbues certain Active Skills with the Corruption element.
+Ki Consumption Rate 1.40","Requires a certain amount of Astral Wisdom
+Soul Atrophy I",9
+50,Leechkin I,Passive,Restores your health by 3% when you damage an enemy with a Yokai Ability.,"Requires a certain amount of Astral Wisdom
+Arcana of Vermin",9
+51,Raging Strike,Custom Active Skills,"Increases the damage dealt by certain Active Skills by 20%. In exchange, you will take damage when using them.
+Ki Consumption Rate 1.10 ","Requires a certain amount of Astral Wisdom
+Demonic Destruction I",9
+52,Ravenous Strike,Custom Active Skills,"Restores your health by 1% of the damage dealt with certain Active Skills.
+Ki Consumption Rate 1.30","Requires a certain amount of Astral Wisdom
+Special Finesse: Recuperate I",9
+53,Desperate Strike,Custom Active Skills,"Restores your health by 30% of the damage dealt with certain Active Skills if your health is dangerously low.
+Ki Consumption Rate 1.30","Requires a certain amount of Astral Wisdom
+Hasten Awakening I",9
+54,Refulgent Strike,Custom Active Skills,Increases the amount of Anrita earned when defeating an enemy with certain Active Skills by 100%. Ki Consumption Rate 1.10,"Requires a certain amount of Astral Wisdom
+Guardian Bond: Aether",9
+55,Mercenary Strike,Custom Active Skills,Increases the drop rate of items by 10% when defeating an enemy with certain Active. Ki Consumption Rate 1.30,"Requires a certain amount of Astral Wisdom
+Enduring Awakening I",9
+56,Murderous Strike,Custom Active Skills,"Restores 5% of your maximum health when defeating an enemy with certain Active Skills.
+Ki Consumption Rate 1.20
+ ","Requires a certain amount of Astral Wisdom
+Demonic Tenacity I",9
+57,Imperious Strike,Custom Active Skills,"Increases the amount of Anima gained by 50% when you hit an opponent with certain Active Skills.
+Ki Consumption Rate 1.40","Requires a certain amount of Astral Wisdom
+Demonic Ascension I
+The Dragon's Echo I",9
+0,Body Swap,Active,"Swaps places with the enemy in front of you to get behind them.
+Command: L1 + Square button (square While guarding).",Base,10
+1,Resounding Lunge,Active,"Ready your spear and build up your energy before unleashing a powerful strike forward. Charging this attack to its maximum strength will cause your strike to release a devastating shockwave.
+Command: L1 + Square button (Square while guarding)","Cleared Mission ''???''
+Chidori",10
+2,Tornado,Active,"Strikes the ground with the butt of the wear. unleashing a shock wave. Press the attack button again to spin the spear and slash at foes.
+Command: triangle button at end of combo.","Twisting Spear
+Cleared Mission ''???''",10
+3,Water Wheel,Active,"Follows up a combo with a vertical spear strike that smashes down on the opponent. (Mid Stance Only).
+Command: triangle button at end of combo",Body Swap,10
+4,Relentless I,Passive,Maximum ki increases by +30 when you have a spear equipped as your main weapon.,Water Wheel,10
+5,Relentless II,Passive,Maximum Ki increases by +20 when you have a spear equipped as your main weapon.,Relentless I,10
+6,Relentless III,Passive,Maximum Ki increases by +10 when you have spear equipped as your main weapon.,Relentless II,10
+7,Entangle,Active,"Sweeps an enemy's legs to knock them down. (Mid Stance only).
+Command: L1 + triangle button (triangle while guarding)",Body Swap,10
+8,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have a spear equipped as your main weapon.",Entangle,10
+9,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have a spear equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ''The Sun Sets On Mount Tenno''.",10
+10,Full Moon Kata III,Passive,"While in full health, your melee damage increases by 1% when you have a spear equipped as your main weapon.","Full Moon Kata II
+Cleared Mission ''???''",10
+11,Pole Kick,Active,"Follows up a combo with a kick that uses your spear for support. (Mid/ Low stance only).
+Command: Triangle button at end of combo",Body Swap,10
+12,Wild Spear,Active,"Charges forward while swinging the spear around.
+Command: Hold X button while guarding","Pole Kick
+Cleared Mission ''The Sun Sets On Mount Tenno''",10
+13,Flying Monkey,Active,"Leaps over an enemy to get behind them. (Low stance only).
+Command: L3 Up + X at end of combo.",Back Slash,10
+14,Flying Monkey II,Active,"After Flying Monkey, lets you stab downward with an additional button press.",Flying Monkey,10
+15,Back Slash,Active,"Slashes enemy while stepping back (low Stance only).
+Command: L1 + square button (square While guarding.",Flying Monkey,10
+16,Rainbow Ruse,Active,"After a Ki Pulse, you can press the desired direction before using your spear to support you as you jump to evade the enemy. (Low stance only)",Flying Monkey,10
+17,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when you have a spear equipped as your main weapon",Back Slash,10
+18,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when you have a spear equipped as your main weapon","Cornered Boar I
+Cleared Mission ''The Sun Sets On Mount Tenno''",10
+19,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have a spear equipped as your main weapon","Cornered Boar II
+Cleared Mission ''???''",10
+20,Spear Bash,Active,"Use the butt of the spear to quickly throw the opponent off balance. (Low Stance only).
+Command: Square button at end of combo. ",Back Slash,10
+21,Spear Shove,Active,"Shoves an opponent using the spear's shaft, staggering them.
+Command: L1 + triangle button (triangle While guarding)",Base,10
+22,Chidori,Active,"Follows up a combo with a blow using the butt of the spear. If the attack reduces the enemy's Ki to zero, it will launch them into the air. (Press triangle button to perform additional attack).
+Command: triangle button at end of combo.",Spear Shove,10
+23,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you have a spear equipped as your main weapon.,"Spear Shove
+
+
+
+ ",10
+24,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a spear equipped as your main weapon.,"Passage to the Afterlife I
+Cleared Mission ''The Sun Sets On Mount Tenno''.",10
+25,Merciless Barrage,Active ,"Launches an opponent who is out of Ki into the air, and follows up with a powerful thrust attack.
+Command: triangle button on opponent out of Ki.","Passage to the Afterlife I
+Cleared Mission ''???''",10
+26,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have a spear equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ''???''",10
+27,Rising Dragon,Active,"After getting knocked down, press triangle button to attack while getting back up.
+Command: triangle button while downed.","Spear Shove
+Flying Monkey",10
+28,Armor Piercer I,Passive,Increases Final Blow damage by 4% when you have a spear equipped as your main weapon. Command: L1 + triangle button (triangle while guarding).,Spear Shove,10
+29,Armor Piercer II,Passive,Increases Final Blow damage by 3% when you have a spear equipped as your main weapon.,"Armor Piercer I
+Cleared Mission ''The Sun Sets On Mount Tenno''.",10
+30,Armor Piercer III,Passive,Increases Final Blow damage by 2% when you have a spear equipped as your main weapon.,"Armor Piercer II
+Cleared Mission ''???''",10
+31,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you have a spear equipped as your main weapon.",Rising Dragon,10
+32,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you have a spear equipped as your main weapon.",Cornered Tiger I,10
+33,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 5% when you have a spear equipped as your main weapon.","Cornered Tiger II
+Cleared Mission ''???''",10
+34,Twisting Spear,Active,"Twirls the spear around to gain momentum, then perform a single powerful strike.","Spear Shove
+Piercing Rain
+Cleared Mission ''Sun Sets On Mount Tenno''",10
+35,Piercing Rain,Active,"Follows up a combo with a flurry of powerful blows, fiercely thrusting at the enemy five times. (High stance only).
+Command: triangle button at end of combo.",Base,10
+36,Spearfall,Active,"Follows up a combo with a horizontal slash, then slams the spear down on the enemy. (High stance only).
+Command: triangle button at end of combo.",Piercing Rain,10
+37,First Rule of Thrusting,Passive,"Damage of thrust attacks increases by 3% when you have a spear equipped as your main weapon. (High Stance Only).
+Command: triangle button at end of combo.",Piercing Rain,10
+38,Second Rule of Thrusting,Passive,Damage of thrust attacks increases by 2% when you have a spear equipped as your main weapon.,"First Rule of Thrusting
+Cleared Mission ''The Sun Sets On Mount Tenno''.",10
+39,Third Rule of Thrusting,Passive,Damage of thrust attacks increases by 1% when you have a spear equipped as your main weapon.,"Second Rule of Thrusting
+Cleared Mission ''???''",10
+40,Spear Flourish,Active,"Knocks the enemy backwards when you perform a Ki Pulse. ( High stance only).
+Command: Triangle button at end of combo.",Piercing Rain,10
+41,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 15% when you have a spear equipped as your main weapon.",Flying Monkey II,10
+42,Indomitable Spirit II,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 10% when you have a spear equipped as your main weapon.",Indomitable Spirit I,10
+43,Indomitable Spirit III,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 5% when you have a spear equipped as your main weapon.",Indomitable Spirit II,10
+44,Windmill,Active,"Swings the blade around you in a wide circle, at its furthest reach (High Stance Only).
+Command: L1+ triangle button (triangle while guarding).",Spearfall,10
+45,Windmill II,Active,Pressing and holding the button allows you to extend the duration of the spin. (High Stance Only),Windmill,10
+46,Twirl,Active,"Parries an enemy attack and knock them down. (Mid stance only).
+Command: L1 +triangle button (triangle while guarding",Body Swap,10
+47,Twirl II,Active,"When Twirl is successful, increases your attack power. (Mid stance only)",Twirl,10
+48,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have a spear equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ''The Sun Sets On Mount Tennon''.",10
+49,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have a spear equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ''???''",10
+50,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have a spear equipped as your main weapon.,Body Swap,10
+0,Merciful Retribution,Active,"Perform a mighty thrust with the switchglaive in scythe form before puling it back towards you, slashing at the enemy. (High Stance Only).
+Command: Hold Triangle button.","Focused Retribution
+Just Reprisal",11
+1,Divine Retribution,Active,"Swing the switchglaive downwards in scythe form while moving forward. If your swing connects with the enemy, you will cut them down while propelling yourself into the air. (High Stance Only)",Focused Retribution,11
+2,Mortal Retribution,Active,"Follow up a Quick Attack with a sideways swing of the switchglaive in scythe form, attacking the enemy and drawing them (High Stance Only).
+Command: Triangle Button at end of combo.",Focused Retribution,11
+3,Focused Retribution,Active,"Twist your body, building up enough energy to urieash two diagonal slashes at the enemy. (High Stance Only).
+Command: Hold Triangle button.", Base,11
+4,Infinite Retribution,Active,"Continuously spin your switchglaive in scythe form. (High Stance Orly).
+Command: L1 + Square (Square While guarding).","Divine Retribution
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+5,Celestial Retribution,Active,"Use the switchglaive in scythe form to fling a winded enemy high into the air. (High Stance Only).
+Command: Square button on opponet out of ki. ",Mortal Retribution,11
+6,Mind's Edge,Active,"Follow up a Quick Attack by thrusting the butt end of your switchglaive towards and toward the enemy. (Mid Stance Only).
+Command: Triangle Button at end of combo.",Just Reprisal,11
+7,Blinding Edge,Active,"Drag your switchglaive across the ground before lifting it high, sending debris flying toward the enemy with a twisting, stab. (Mid Stance Only).
+Command: L1 + Square (Square While guarding).",Just Reprisal,11
+8,Just Reprisal,Active,"Parry the enemy's attack, circling around them carefully before going in for a diagonal slash. (Mid Stance Only).
+Command: L1 + Triangle (Triangle While guarding).", Base,11
+9,Calamitous Blade,Active,"Swiftly step towards the enemy while giving the switchglaive a mighty upward swing in guillotine form. (Low Stance Only).
+Command: L1 + Triangle (Triangle While guarding).",Transient Blade,11
+10,Transient Blade,Active,"Perform a twisting stab after a Quick Attack. then spring back while twirling your weapon. (Low Stance Only).
+Command: Triangle Button at end of combo.", Base,11
+11,Whirling Blade,Active,"Spin the switchglaive in guilotine form, repeling any arrows or bullets fired in your direction. (Low Stance Only).
+Command: L1 + Square (Square While guarding).","Skyward Blade
+Cleared Mission ""???""",11
+12,Skyward Blade,Active,"Crouch down before springing upward with a swing of the switchglaive in guillotine form. Completely depleting a human opponents Ki with this skill will cause them to fall oven. (Low Stance Only).
+Command: L1 + Square (Square While guarding). ",Transient Blade,11
+13,Lightning Blade,Active,"Use your enemy's strength to propel yourself upwards before dropping onto them with immense force. (Low Stance Only),
+Command: L1 + Triangle (Triangle While guarding). ",Calamitous Blade,11
+14,Switch Stance: Retribution,Active,"Follow up another attack by switching the switchglaive into scythe form and slashing downwards, transitioning into High Stance. (Mid/low Stance Only).
+Command: Following another attakc R1 + Triangle. ",The Path of Three,11
+15,Switch Stance: Edge,Active,"Follow up another attack by switching the switchglaive into glaive form and mowing down enemies in your surroundings, transitioning into Mid Stance. (High/Low Stance Only).
+Command: Following another attakc R1 + Square button.  ",The Path of Three,11
+16,Switch Stance: Blade,Active,"Follow up another attack by switching the switchglaive into guillotine form and pressing-- forward with an attack, transitioning Stance. (High/Mid Stance Only).
+Command: Following another attakc R1 + X ",The Path of Three,11
+17,The Path of Three,Active,"Switch the switchglaive from guillotine to glaive and then to scythe form while continuously attacking the enemy.
+Command: Hold Triangle", Base,11
+18,Thin Air,Active,"Only usable when your weapon is sheathed. Unleashes a sudden thrust at the enemy with
+the switchglaive in glaive form.
+Press R1 + Triangle Button to perform a follow-up attack in scythe form. and R1 + X to do so in guillotine form.
+Command: Hold R1 + Circle Button",Switch Stance: Edge Rakshasa,11
+19, ,Active,"Increases the amount of Anima you gain when you attack an enemy. In exchange, you will receive more Ki damage. 
+Command: R1 + Circle Button.",Thin Air,11
+20,Relentless I,Passive,Maximurn Ki increases by +30 when you have a switchglaive equipped as your main weapon.,Focused Retribution,11
+21,Relentless II,Passive,Maximum Ki increases by +20 when you have a switchglaive equipped as your main weapon.,"Relentless I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+22,Relentless III,Passive,Maximum Ki increases by +10 when you have a switchglaive equipped as your main weapon.,"Relentless II
+Cleared Mission ""???""",11
+23,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 15% when you have a switchglaive equipped as your main weapon.
+Command: Following another attakc R1 + X",Switch Stance: Blade,11
+24,Indomitable Spirit II, Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 10% when you have a switchglaive  equipped as your main weapon. ","Indomitable Spirit II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+25,Indomitable Spirit III,Passive,When your health drops to 30% or lower. your Ki recovery speed will be increased by 5% when you have a switchglaive equipped as your main weapon.,"Indomitable Spirit II
+Cleared Mission ""???""",11
+26,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you  have a switchglaive equipped as your main weapon.",Switch Stance: Retribution,11
+27,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you  have a switchglaive equipped as your main weapon.","Cleared Mission ""The Sun Sets On Mount Tenno"".
+Cornered Tiger I",11
+28,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you  have a switchglaive equipped as your main' weapon."," 
+Cleared Mission ""???""
+Cornered Tiger II",11
+29,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when you have a switchglaive equipped as your main weapon.",Transient Blade,11
+30,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when, you have a switchglaive equipped as your main weapon."," 
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+Switch Stance: Blade
+Cornered Boar I",11
+31,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have a switchglaive equipped as your Main weapon. "," 
+Cleared Mission ""???""
+Cornered Boar II",11
+32,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have a switchglaive equipped as your main weapon.",Blinding Edge,11
+33,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have a switchglaive equipped as your main weapon."," 
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+Full Moon Kata I",11
+34,Full Moon Kata III,Passive,"While in full health, your melee damage increases by I% when you have a switchglaive equipped as your main weapon."," 
+Cleared Mission ""???""
+Full Moon Kata II",11
+35,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have a switchglaive equipped as your main weapon.,Skyward Blade,11
+36,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have a switchglaive equipped as your main weapon.," 
+Cleared Mission ""The Sun Sets On Mount Tenno"".
+Shadow Strike I",11
+37,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have a switchglaive equipped as your main weapon.," 
+Cleared Mission ""???""
+Shadow Strike II",11
+38,Armor Piercer I,Passive,Increases Final Blow damage by 4% when you have a switchglaive equipped as your main weapon,Transient Blade,11
+39,Armor Piercer II,Passive,Increases Final Blow damage by 3% when you have a switchglaive equipped as your main weapon.,"Blinding Edge
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+40,Armor Piercer III,Passive,Increases Final Blow damage by 2% when you have a switchglaive equipped as your main weapon.,"Armor Piercer II
+Cleared Mission ""???""",11
+41,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you base a switchglaive equipped as your main weapon.,Focused Retribution,11
+42,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a switchglaive equipped as your main weapon.,"Switch Stance: Retribution
+Passage to the Afterlife I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+43,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have a switchglaive equipped as your main weapon.,"Passage to the Afterlife II
+Cleared Mission ""???""",11
+44,Infinite Retribution II,Active,"Press Square button to attack after using Infinite Retribution. The damage dealt by this attack increases based on the number of times you spun your switchglaive. (High Stance Only).
+Command: L1 + Square Button (Square While guarding).","Infinite Retribution
+Cleared Mission ""???""",11
+45,Empty Retribution,Active,Perform a spin attack with the switchglaive in scythe form. (High Stance Only),"Celestial Retribution
+Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+46,Tranquil Edge,Active,"Parry the enemy's attack before shifting your weight and counterattacking. (Mid Stance Only).
+Command: L1 + Square Button (Square While guarding).","Blinding Edge Cleared Mission ""The Sun Sets On Mount Tenno"".",11
+0,Water Shadow,Active,"Parries an enemy attack, then places you behind them. ( Mid stance only).
+Command: L1 + Triangle button (triangle while guarding",Leaf Glide,12
+1,Water Shadow II,Active,"When Water shadow succeeds, allows you to slice attack with an additional push of triangle button (Mid stance only)",Water Shadow,12
+2,Defense Arts I,Passive,Increases Ki recover speed while guarding by 20% when you have a sword equipped as your main weapon.,Haze II,12
+3,Defense Arts II,Passive,Increases Ki recovery speed while guarding by 15% when you have a sword equipped as your main weapon.,"Defense Arts I
+Cleared Mission ''The sun Sets On Mount Tenno''",12
+4,Defense Arts III,Passive,Increases Ki recovery speed while guarding by 10% when you have a sword equipped as your main weapon.,"Defense Arts II
+Cleared Mission ''???''",12
+5,Leaf Glide,Active,"Parries an opponent's attack and then maneuvers over the opponent. (Mid stance only).
+Command: L1 + square button (square While guarding).",Base,12
+6,Haze,Active,"Parries an enemy attack, neutralizing it. (Mid stance only).
+Command: L1 + Square Button (Square While guarding).",Leaf Glide,12
+7,Haze II,Active,"When Haze succeeds, allow you to thrust attack with an extra Square button (Mid Stance only).",Haze,12
+8,First Rule of Thrusting,Passive,Damage of thrust attacks increases by 3% when you have a sword equipped as your main weapon.,"Leaf Glide
+Morning Moon",12
+9,Second Rule of Thrusting,Passive,Damage of thrust attacks increases by 2% when you have a sword equipped as your main weapon.,First Rule of Thrusting,12
+10,Third Rule of Thrusting,Passive,Damage of thrust attacks increases by 1% when you have a sword equipped as your main weapon.,Second Rule of Thrusting,12
+11,Tachi Arts I,Passive,Increases melee damage against enemies with full health by 5% when you have a sword equipped as you main weapon.,Morning Moon,12
+12,Tachi Arts II,Passive,Increases melee damage against enemies with full health by 4% when you have a sword equipped as your main weapon.,Tachi Arts I,12
+13,Tachi Arts III,Passive,Increases melee damage against enemies with full health by 3% when you have a sword equipped as your main weapon.,"Tachi Arts II
+Cleared Mssion ''???''",12
+14,Tempest,Active,"Pressing L1 button after breaking through an enemy's guard will knock the enemy to the ground. (Mid/Low stance only).
+Command: L1 after knocking enemy off balance.",Sword Ki,12
+15,Backwave,Active,"Guard just before an incoming hit to deflect the attack and knock the attacker off balance. (Mid stance only).
+Command: L1 the moment before an enemy's attack conn.",Tempest,12
+16,Backwave II,Active,"When Backwave succeeds, follow up with Tempest (Mild stance only)",Backwave,12
+17,Kick,Active,"Follows up a combo with a kick that causes a large amount of Ki damage. (Mid/Low stance only).
+Command: press triangle button at end of combo.",Morning Moon,12
+18,Heaven Flash,Active,"Follows up a combo with a kick to the enemy that launches you up, then finishes with a downward slice (Low stance only).
+Command: Press L3 Up + X at end of combo.",Base,12
+19,Swift Step,Active,"Quickly maneuvers behind the opponent (Low stance only).
+Command: Press L3 Up + X at end of combo.",Heaven Flash,12
+20,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have a sword equipped as your main weapon.,Swift Step,12
+21,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have a sword equipped as your main weapon.,Shadow Strike I,12
+22,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have a sword equipped as your main weapon.,Shadow Strike II,12
+23,Armor Piercer I,Passive,Increases Final Blow damage by 4% when you have a sword equipped as your main weapon,Heaven Flash,12
+24,Armor Piercer II,Passive,Increases Final Blow damage by 3% when you have a sword equipped as your main weapon,Armor Piercer I,12
+25,Armor Piercer III,Passive,Increases Final Blow damage by 2% when you have a sword equipped as your main weapon,Armor Piercer II,12
+26,Swallow,Active,"Follows up a combo with a slash while stepping back.
+Command: Triangle button at end of combo.",Kick,12
+27,Swallow II,Active,Alters backward movement when wearing light armor.,Swallow,12
+28,Flowing Shadow,Active,"Performs three rapid attacks while circling around the enemy.
+Command: L1 + triangle Button (triangle While guarding)","Swallow II
+Cleared Mission ''???''",12
+29,Shadow Sword,Active,"Finish off a sword combo by striking the enemy with the sword's scabbard.
+Command: square button at end of combo.","Heaven Flash
+Sword Ki",12
+30,Sword of Discernment,Active,"Staggers the enemy by bashing them with the sheath, then follows up with a downward slash.
+Command: L1 + Square Button (Square While guarding).","Shadow Sword
+Cleared Mission ''The Sun Sets On Mount Tennon''",12
+31,Morning Light,Active,"After getting knocked down, press triangle button to attack while getting back up.
+Command: triangle button while downed.","Sword of Discernment
+Cleared Mssion ''???''",12
+32,Sword Ki,Active,"Dispenses Ki from your sword to stagger surrounding enemies.
+Command: Press L1 + triangle button (triangle while guarding).",Base,12
+33,Relentless I,Passive,Maximum Ki increases by +30 when you have a sword equipped as your main weapon.,Sword Ki,12
+34,Relentless II,Passive,Maximum Ki increases by +20 when you have a sword equipped as your main weapon.,Relentless I,12
+35,Relentless III,Passive,Maximum Ki increases by +10 when you have a sword equipped as your main weapon.,Relentless II,12
+36,Iai Quickdraw,Active,Gathers power while keeping your sword in its scabbard for a quick-draw and rapid strike. It can only be used when your sword is sheathed. Command: Hold R1 + Circle button,Sword Ki,12
+37,Iai Quickdraw II,Active,Allows you to accumulate much more power.,Iai Quickdraw,12
+38,Tiger Sprint,Active,"Rushes forward, with still sheathed, before dealing a powerful blow.
+Command: Hold R1 + Circle button.",Iai Quickdraw II,12
+39,Iai Quickdraw III,Active,Immediately puts you in Iai stance when Ki Pulse succeeds.,Iai Quickdraw II,12
+40,Night Rain,Active,"Unleashes a barrage of quick slashes. 
+Command: Hold R1 + circle button.",Iai Quickdraw III,12
+41,Morning Moon,Active,"Follows up a combo with a jumping slice. (High stance only).
+Command: press triangle at end of combo.",Base,12
+42,Sword of Meditation,Active,"Performs a powerful attack that has a wide opening.
+Command: L1 + Triangle button (triangle while guarding).",Morning Moon,12
+43,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you have a sword equipped as your main weapon.,Morning Moon,12
+44,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a sword equipped as your main weapon.,Passage to the Afterlife I,12
+45,Passage to the Afterlife III,Passive,Increases grapple damage by 2% when you have a sword equipped as your main weapon.,Passage to the Afterlife II,12
+46,Sword of Celerity,Active,Press Square Button after using Sword Ki to slash at enemies arround you while charging forward.,"Sword Ki
+Morning Moon",12
+0,Demon Dance: Heaven,Active,"Automatically repositions you while evading attacks after a successful Ki Pulse. (High Stance Only).
+Command: During Ki Pulse", Base,13
+1,Demon Dance: Man,Active,"Automatically repositions you while evading attacks after a successful Ki Pulse. (Mid Stance Only)
+Command: During Ki Pulse",Base,13
+2,Demon Dance: Earth,Active,"Automatically repositions you while evading attacks after a successful Ki Pulse. (Low Stance Only)
+Command: During Ki Pulse", Base,13
+3,Pulverize: Heaven,Active,Press Square button after a Demon Dance: Heaven to perform a folbw-up attack. (High Stance Only).,Demon Dance: Heaven,13
+4,Pulverize: Man,Active,Press Squqre button after a Demon Dance: Man to perform a follow-up attack. (Mid Stance Only),Demon Dance: Man,13
+5,Pulverize: Earth,Active,Press Squqre button after a Demon Dance: Earth to perform a follow-up attack. (Low Stance Only),Demon Dance: Earth,13
+6,Mountain Breaker,Active,"Unleashes a powerful strike. (High Stance Only).
+Command: L1 + Triangle Button (Triangle while guarding).",Demon Dance: Heaven,13
+7,Tiger Bite,Active,"Rapidy closes in on an enemy and sends them flying. (Mid Stance Only).
+Command: Button (Triangle while guarding).",Demon Dance: Man,13
+8,Double Kick,Active,"Performs a two-tier kick. (Low Stance Only).
+Command: Button (Triangle while guarding).",Demon Dance: Earth,13
+9,Impenetrability,Active,Guard just before an incoming hit to deflect the attack and knock the attacker off balance. (Mid Stance Only),Tiger Bite,13
+10,Dragon Slayer,Active,Press L1 after a successful Impenetrability to unleash a powerful attack. (Mid Stance Only),Impenetrability,13
+11,Dragon Slayer II,Active,Press L1 after a Dragon Slayer to perform an additional attack. (Mid Stance Only),"Dragon Slayer
+Cleared Mission ""???""",13
+12,Wild Lions,Active,"Swings the tonfa around, attacking nearby enemies. 
+Command: L1 + Square Button (Square while guarding).",Base,13
+13,Shove,Active,"Pushes an enemy back, staggering them. (High/Mid Stance Only).
+Command: Triangle Button at end of combo.",Demon Dance: Heaven,13
+14,Sweeping Kick,Active,"Aims a kick at the enemy's feet. (Mid/low Stance Only).
+Command: Triangle Button at end of combo.",Demon Dance: Man,13
+15,Crimson Lotus,Active,"Follows up a Strong Attack with a thrust from a single tonfa.
+Command: Square Button at end of combo. ",Wild Lions,13
+16,Devastation,Active,"Follows up a Quick Attack with tfrusts from both tonfa.
+Command: Triangle Button at end of combo.","Crimson Lotus
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+17,Urgency,Active,"Begins with a slow movement before instantly closing in on the enemy to deliver a powerful bow. (High Stance Only).
+Command: L1 + Triangle button (triangle guarding).","Mountain Breaker
+Cleared Mission ""???""",13
+18,Prescience,Active,"Evades all incoming attacks during the recovery period following a dodge. (Low Stance Only)
+
+","Double Kick
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+19,Buoyancy I,Active,"Increases your damage when using tonfa in proportion to how light your equipment is. (Scaling: D-).
+Command: Triangle Button at end of combo.",Sweeping Kick,13
+20,Buoyancy II,Passive,Increases your damage when using tonfa in proportion to how light your equipment is. (Scaling: D),"Buoyancy I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+21,Buoyancy III,Passive,Increases your damage when using tonfa in proportion to how light your equipment is. (Scaling: D+),"Buoyancy II
+Cleared Mission ""???"" ",13
+22,Three Wars Kata I,Passive,Reduces Ki damage received by 6% when using tonfa.,Wild Lions,13
+23,Three Wars Kata II,Passive,Reduces Ki damage received by 3% when using tonfa.,"Three Wars Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+24,Three Wars Kata III,Passive,Reduces Ki damage received by 3% when using tonfa.,"Three Wars Kata II
+Cleared Mission ""???""",13
+25,Focused Strike,Active,"Builds up power while moving slowly, then releases it in a single devastating blow. 
+Command: Hold Triangle ","Wild Lions
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+26,Heavenly Chain,Active,"Follows up a Strong Attack with a series of tonfa strikes.
+Command: Square at end of combo.","Shove
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+27,Thousand Tongues,Active,"Parries an enemy's attack and counters with a flurry of tonfa strikes. (Mid Stance Only).
+Command: L1 + Triangle button (triangle guarding).","Tiger Bite
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+28,Relentless I,Passive,Maximum Ki increases by +30 when you have tonfa equipped as your main weapon.,"Three Wars Kata I
+Focused Strike",13
+29,Relentless II,Passive,Maximum Ki increases by +20 when you have tonfa equipped as your main weapon.,"Relentless I
+Three Wars Kata II
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+30,Relentless III,Passive,Maximum Ki increases by +10 when you have tonfa equipped as your main weapon.,"Relentless II
+Cleared Mission ""???""",13
+31,Indomitable Spirit I,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 15% when you have tonfa equipped as your main weapon.",Pulverize: Man,13
+32,Indomitable Spirit II,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 10% when you have tonfa equipped as your main weapon.","Indomitable Spirit I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+33,Indomitable Spirit III,Passive,"When your health drops to 30% or lower, your Ki recovery speed will be increased by 5% when you have tonfa equipped as your main weapon.","Indomitable Spirit II
+Cleared Mission ""???""",13
+34,Cornered Tiger I,Passive,"When your health is below 30%, your melee damage will be increased by 15% when you have tonfa equipped as your main weapon.",Pulverize: Heaven,13
+35,Cornered Tiger II,Passive,"When your health is below 30%, your melee damage will be increased by 10% when you have tonfa equipped as your main weapon.","Cornered Tiger I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+36,Cornered Tiger III,Passive,"When your health is below 30%, your melee damage will be increased by 5% when you have tonfa equipped as your main weapon.","Cornered Tiger II
+Cleared Mission ""???""",13
+37,Cornered Boar I,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 15% when, you have tonfa equipped as your main wearen.","Wild Lions
+Demon Dance: Earth",13
+38,Cornered Boar II,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 10% when you have tonfa equipped as your main weapon","Cornered Boar I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+39,Cornered Boar III,Passive,"When your health drops to 30% or lower, the damage you receive is reduced by 5% when you have tonfa equipped as your main weapon.","Cornered Boar II
+Cleared Mission ""???""",13
+40,Full Moon Kata I,Passive,"While in full health, your melee damage increases by 3% when you have tonfa equipped as your main weapon.",Pulverize: Earth,13
+41,Full Moon Kata II,Passive,"While in full health, your melee damage increases by 2% when you have tonfa equipped as your main weapon.","Full Moon Kata I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+42,Full Moon Kata III,Passive,"While in full health, your melee damage increases by I% when you have tonfa equipped as your main weapon.","Cleared Mission ""???""
+Full Moon Kata II",13
+43,Shadow Strike I,Passive,Damage dealt to enemies from behind increases by 3% when you have a Tonfa equipped as your main weapon.,Demon Dance: Earth,13
+44,Shadow Strike II,Passive,Damage dealt to enemies from behind increases by 2% when you have a Tonfa equipped as your main weapon.,"Shadow Strike I
+Cleared Mission ""The Sun Sets On Mount Tenno"".",13
+45,Shadow Strike III,Passive,Damage dealt to enemies from behind increases by 1% when you have a Tonfa equipped as your main weapon.,"Shadow Strike II
+Cleared Mission ""???""",13
+46,Passage to the Afterlife I,Passive,Increases grapple damage by 4% when you have a Tonfa equipped as your main weapon.,"Demon Dance: Man
+Demon Dance: Heaven
+
+ ",13
+47,Passage to the Afterlife II,Passive,Increases grapple damage by 3% when you have a Tonfa equipped as your main weapon.,"Cleared Mission ""The Sun Sets On Mount Tenno"".
+Passage to the Afterlife I",13
+48,Passage to the Afterlife III,Passive,Increases grapple damage by 3% when you have a Tonfa equipped as your main weapon.,"Cleared Mission ""???""
+Passage to the Afterlife II",13
+49,Fleetfoot,Passive,Swiftly close the distance between you and your enemy. (Mid/Low Stance Only),"Focused Strike
+Cleared Mission ""???""",13
